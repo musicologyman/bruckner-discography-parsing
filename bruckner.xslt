@@ -37,34 +37,44 @@
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:value-of
-                            select="normalize-space(//div[@class='odd']/div[@class='col1']/b/following-sibling::node()[2])" />
+                            select="normalize-space(div[@class='odd']/div[@class='col1']/b/following-sibling::node()[2])" />
                     </xsl:otherwise>
                 </xsl:choose>
             </label_number>
             <timings>
                 <total_time>
-                    <xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col5']/b)" />
+                    <timing><xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col5']/b)" /></timing>
                 </total_time>
                 <xsl:if test="string-length(normalize-space(div[@class='odd']/div[@class='col5'][2])) &gt; 0">
-                    <mvmt number="1">
-                        <xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col5'][2])" />
-                    </mvmt>
+                    <movement>
+                    	<number>1</number>
+                        <timing><xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col5'][2])" /></timing>
+                    </movement>
                 </xsl:if>
                 <xsl:if test="string-length(normalize-space(div[@class='odd']/div[@class='col5'][3])) &gt; 0">
-                    <mvmt number="2">
-                        <xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col5'][3])" />
-                    </mvmt>
+                    <movement>
+                    	<number>2</number>
+                        <timing>
+                            <xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col5'][3])" />
+                        </timing>
+                    </movement>
                 </xsl:if>
                 <xsl:if test="string-length(normalize-space(div[@class='odd']/div[@class='col5'][4])) &gt; 0">
-                    <mvmt number="3">
-                        <xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col5'][4])" />
-                    </mvmt>
+                    <movement>
+                    	<number>3</number>
+                        <timing>
+                            <xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col5'][4])" />
+                        </timing>
+                    </movement>
                 </xsl:if>
                 <xsl:if test="div[@class='odd']/div[@class='col5'][5]">
                     <xsl:if test="string-length(normalize-space(div[@class='odd']/div[@class='col5'][5])) &gt; 0">
-                        <mvmt number="4">
-                            <xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col5'][5])" />
-                        </mvmt>
+                        <movement>
+                        	<number>4</number>
+                            <timing>
+                                <xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col5'][5])" />
+                            </timing>
+                        </movement>
                     </xsl:if>
                 </xsl:if>
             </timings>
