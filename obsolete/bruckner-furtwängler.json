@@ -1,0 +1,218 @@
+[
+  {
+    "label": "Andromeda",
+    "mvmt1": {
+      "minutes": 17,
+      "seconds": 14,
+      "total_seconds": 1034
+    },
+    "mvmt2": {
+      "minutes": 17,
+      "seconds": 34,
+      "total_seconds": 1054
+    },
+    "mvmt3": {
+      "minutes": 9,
+      "seconds": 58,
+      "total_seconds": 598
+    },
+    "mvmt4": {
+      "minutes": 19,
+      "seconds": 12,
+      "total_seconds": 1152
+    },
+    "notes": ""
+  },
+  {
+    "label": "Urania",
+    "mvmt1": {
+      "minutes": 17,
+      "seconds": 34,
+      "total_seconds": 1054
+    },
+    "mvmt2": {
+      "minutes": 18,
+      "seconds": 5,
+      "total_seconds": 1085
+    },
+    "mvmt3": {
+      "minutes": 10,
+      "seconds": 8,
+      "total_seconds": 608
+    },
+    "mvmt4": {
+      "minutes": 19,
+      "seconds": 29,
+      "total_seconds": 1169
+    },
+    "notes": ""
+  },
+  {
+    "label": "M & A (?)",
+    "mvmt1": {
+      "minutes": 17,
+      "seconds": 43,
+      "total_seconds": 1063
+    },
+    "mvmt2": {
+      "minutes": 18,
+      "seconds": 14,
+      "total_seconds": 1094
+    },
+    "mvmt3": {
+      "minutes": 10,
+      "seconds": 34,
+      "total_seconds": 634
+    },
+    "mvmt4": {
+      "minutes": 19,
+      "seconds": 21,
+      "total_seconds": 1161
+    },
+    "notes": "(Stuttgart?)"
+  },
+  {
+    "label": "Orfeo",
+    "mvmt1": {
+      "minutes": 18,
+      "seconds": 4,
+      "total_seconds": 1084
+    },
+    "mvmt2": {
+      "minutes": 18,
+      "seconds": 32,
+      "total_seconds": 1112
+    },
+    "mvmt3": {
+      "minutes": 10,
+      "seconds": 24,
+      "total_seconds": 624
+    },
+    "mvmt4": {
+      "minutes": 20,
+      "seconds": 16,
+      "total_seconds": 1216
+    },
+    "notes": ""
+  },
+  {
+    "label": "DG",
+    "mvmt1": {
+      "minutes": 17,
+      "seconds": 46,
+      "total_seconds": 1066
+    },
+    "mvmt2": {
+      "minutes": 18,
+      "seconds": 17,
+      "total_seconds": 1097
+    },
+    "mvmt3": {
+      "minutes": 10,
+      "seconds": 33,
+      "total_seconds": 633
+    },
+    "mvmt4": {
+      "minutes": 19,
+      "seconds": 28,
+      "total_seconds": 1168
+    },
+    "notes": "(Stuttgart)"
+  },
+  {
+    "label": "DG",
+    "mvmt1": {
+      "minutes": 17,
+      "seconds": 51,
+      "total_seconds": 1071
+    },
+    "mvmt2": {
+      "minutes": 18,
+      "seconds": 21,
+      "total_seconds": 1101
+    },
+    "mvmt3": {
+      "minutes": 10,
+      "seconds": 35,
+      "total_seconds": 635
+    },
+    "mvmt4": {
+      "minutes": 19,
+      "seconds": 31,
+      "total_seconds": 1171
+    },
+    "notes": "(Post-war radio recordigns)"
+  },
+  {
+    "label": "Unknown",
+    "mvmt1": {
+      "minutes": 17,
+      "seconds": 14,
+      "total_seconds": 1034
+    },
+    "mvmt2": {
+      "minutes": 17,
+      "seconds": 34,
+      "total_seconds": 1054
+    },
+    "mvmt3": {
+      "minutes": 9,
+      "seconds": 58,
+      "total_seconds": 598
+    },
+    "mvmt4": {
+      "minutes": 19,
+      "seconds": 12,
+      "total_seconds": 1152
+    },
+    "notes": "(Appears to be Andromeda)"
+  },
+  {
+    "label": "Unknown",
+    "mvmt1": {
+      "minutes": 17,
+      "seconds": 37,
+      "total_seconds": 1057
+    },
+    "mvmt2": {
+      "minutes": 18,
+      "seconds": 9,
+      "total_seconds": 1089
+    },
+    "mvmt3": {
+      "minutes": 10,
+      "seconds": 29,
+      "total_seconds": 629
+    },
+    "mvmt4": {
+      "minutes": 19,
+      "seconds": 13,
+      "total_seconds": 1153
+    },
+    "notes": ""
+  },
+  {
+    "label": "Decca",
+    "mvmt1": {
+      "minutes": 17,
+      "seconds": 44,
+      "total_seconds": 1064
+    },
+    "mvmt2": {
+      "minutes": 18,
+      "seconds": 18,
+      "total_seconds": 1098
+    },
+    "mvmt3": {
+      "minutes": 10,
+      "seconds": 16,
+      "total_seconds": 616
+    },
+    "mvmt4": {
+      "minutes": 19,
+      "seconds": 42,
+      "total_seconds": 1182
+    },
+    "notes": ""
+  }
+]

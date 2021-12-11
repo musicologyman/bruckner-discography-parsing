@@ -1,0 +1,56 @@
+{
+ "symphonies": [
+  {
+   "Symphony No. 3": [
+    {
+     "version": "1873 Original Version, ed. Nowak",
+     "recordings": [
+      {
+       "conductor": "Tintner",
+       "orchestra": "RSNO"
+      }
+     ]
+    },
+    {
+     "version": "1877 Original Version, ed. Nowak (with Scherzo coda)",
+     "recordings": [
+      {
+       "conductor": "Harnoncourt",
+       "orchestra": "RCO"
+      }
+     ]
+    },
+    {
+     "version": "1878 Version, ed. Oeser (Scherzo coda not included), based on 1880 Stichvorlage",
+     "recordings": [
+      {
+       "conductor": "Barenboim",
+       "orchestra": "CSO"
+      },
+      {
+       "conductor": "Barenboim",
+       "orchestra": "BPO"
+      },
+      {
+       "conductor": "Haitink",
+       "orchestra": "RCO"
+      }
+     ]
+    },
+    {
+     "version": "1889 Version (aka 1888/89), ed. Nowak",
+     "recordings": [
+      {
+       "conductor": "Wand",
+       "orchestra": "NDR"
+      },
+      {
+       "conductor": "Karajan",
+       "orchestra": "BPO"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
