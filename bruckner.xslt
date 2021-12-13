@@ -12,10 +12,10 @@
         <!--<xsl:if test="font[@size='3']/text()!='Transcriptions'">-->
         <work>
             <title>
-                <xsl:value-of select="font[@size='5']" />
+                <xsl:value-of select="normalize-space(font[@size='5'])" />
             </title>
             <version>
-                <xsl:value-of select="font[@size='3']" />
+                <xsl:value-of select="normalize-space(font[@size='3'])" />
             </version>
             <recordings>
                 <xsl:apply-templates select="following-sibling::div[@class='row']" />
@@ -28,7 +28,7 @@
         <recording>
             <xsl:apply-templates select="div[@class='even']" />
             <date>
-                <xsl:value-of select="div[@class='odd']/div[@class='col1']/b" />
+                <xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col1']/b)" />
             </date>
             <label_number>
                 <xsl:choose>
@@ -37,7 +37,7 @@
                     </xsl:when>
                     <xsl:otherwise>
                         <xsl:value-of
-                            select="normalize-space(div[@class='odd']/div[@class='col1']/b/following-sibling::node()[2])" />
+                            select="normalize-space(substring(normalize-space(div[@class='odd']/div[@class='col1']/b/following-sibling::text()[1]),2))" />
                     </xsl:otherwise>
                 </xsl:choose>
             </label_number>

@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://www.abruckner.com/discography1/symphonyindminor/",
+    "destfile": "bruckner-0th-discography.xml"
+  },
+  {
+    "url": "https://www.abruckner.com/discography1/symphonyno1incmino/",
+    "destfile": "bruckner-1st-discography.xml"
+  },
+  {
+    "url": "https://www.abruckner.com/discography1/symphonyno2incmino/",
+    "destfile": "bruckner-2nd-discography.xml"
+  },
+  {
+    "url": "https://www.abruckner.com/discography1/symphonyno3indmino/",
+    "destfile": "bruckner-3rd-discography.xml"
+  },
+  {
+    "url": "https://www.abruckner.com/discography1/symphonyno4ineflat/",
+    "destfile": "bruckner-4th-discography.xml"
+  },
+  {
+    "url": "https://www.abruckner.com/discography1/symphonyno5inbflat/",
+    "destfile": "bruckner-5th-discography.xml"
+  },
+  {
+    "url": "https://www.abruckner.com/discography1/symphonyno6inamajo/",
+    "destfile": "bruckner-6th-discography.xml"
+  },
+  {
+    "url": "https://www.abruckner.com/discography1/symphonyno7inemajo/",
+    "destfile": "bruckner-7th-discography.xml"
+  },
+  {
+    "url": "https://www.abruckner.com/discography1/symphony8incminor/",
+    "destfile": "bruckner-8th-discography.xml"
+  },
+  {
+    "url": "https://www.abruckner.com/discography1/symphonyno9indmino2/",
+    "destfile": "bruckner-9th-discography.xml"
+  },
+  {
+    "url": "https://www.abruckner.com/discography1/symphonyno9indmino/",
+    "destfile": "bruckner-9th-finale-discography.xml"
+  }
+]

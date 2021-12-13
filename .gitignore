@@ -1,0 +1,6 @@
+bruckner.xslt~
+/html_files/
+\#Untitled-*\#
+bruckner_discography_venv/
+*.session
+.ipynb_checkpoints/
