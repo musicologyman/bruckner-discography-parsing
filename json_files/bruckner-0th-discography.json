@@ -7,8 +7,10 @@
                 "recordings": {
                     "recording": [
                         {
-                            "conductor": "Asahina, Takashi",
-                            "orchestra": "Osaka Philharmonic Orchestra",
+                            "performers": {
+                                "conductor": "Asahina, Takashi",
+                                "orchestra": "Osaka Philharmonic Orchestra"
+                            },
                             "date": "5/6/1978",
                             "label_number": "JVC CD VICC 40190-99 (full set) .",
                             "timings": {
@@ -36,6 +38,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Asahina, Takashi",
+                                "orchestra": "Osaka Philharmonic Orchestra"
+                            },
                             "date": "5/6/1978",
                             "label_number": "JVC CD VICC 60281-91 (full set)",
                             "timings": {
@@ -63,6 +69,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Asahina, Takashi",
+                                "orchestra": "Osaka Philharmonic Orchestra"
+                            },
                             "date": "5/6/1978",
                             "label_number": "JVC LP 9523",
                             "timings": {
@@ -90,6 +100,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Asahina, Takashi",
+                                "orchestra": "Osaka Philharmonic Orchestra"
+                            },
                             "date": "5/6/1978",
                             "label_number": "Tower Records SACD Set GCAC-1018-20",
                             "timings": {
@@ -117,8 +131,10 @@
                             }
                         },
                         {
-                            "conductor": "Asahina, Takashi",
-                            "orchestra": "Osaka Philharmonic Orchestra",
+                            "performers": {
+                                "conductor": "Asahina, Takashi",
+                                "orchestra": "Osaka Philharmonic Orchestra"
+                            },
                             "date": "8/10/1981",
                             "label_number": "Asahina Society CD TAS-002",
                             "timings": {
@@ -146,8 +162,10 @@
                             }
                         },
                         {
-                            "conductor": "Asahina, Takashi",
-                            "orchestra": "Sapporo Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Asahina, Takashi",
+                                "orchestra": "Sapporo Symphony Orchestra"
+                            },
                             "date": "21/5/82",
                             "label_number": "Tower/Fontec SACD TWFS 90007",
                             "timings": {
@@ -175,8 +193,10 @@
                             }
                         },
                         {
-                            "conductor": "Asahina, Takashi",
-                            "orchestra": "Tokyo Metropolitan Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Asahina, Takashi",
+                                "orchestra": "Tokyo Metropolitan Symphony Orchestra"
+                            },
                             "date": "12/5/1982",
                             "label_number": "Fontec CD FOCD 9230",
                             "timings": {
@@ -204,8 +224,10 @@
                             }
                         },
                         {
-                            "conductor": "Barenboim, Daniel",
-                            "orchestra": "Chicago Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Barenboim, Daniel",
+                                "orchestra": "Chicago Symphony Orchestra"
+                            },
                             "date": "3/1979",
                             "label_number": "DG CD 159327",
                             "timings": {
@@ -233,6 +255,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Barenboim, Daniel",
+                                "orchestra": "Chicago Symphony Orchestra"
+                            },
                             "date": "3/1979",
                             "label_number": "DG CD 429 025-2 (full set)",
                             "timings": {
@@ -260,6 +286,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Barenboim, Daniel",
+                                "orchestra": "Chicago Symphony Orchestra"
+                            },
                             "date": "3/1979",
                             "label_number": "DG CD 437250",
                             "timings": {
@@ -287,6 +317,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Barenboim, Daniel",
+                                "orchestra": "Chicago Symphony Orchestra"
+                            },
                             "date": "3/1979",
                             "label_number": "DG LP 2531 319",
                             "timings": {
@@ -314,6 +348,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Barenboim, Daniel",
+                                "orchestra": "Chicago Symphony Orchestra"
+                            },
                             "date": "3/1979",
                             "label_number": "DG LP 2740 253 (full set)",
                             "timings": {
@@ -341,8 +379,10 @@
                             }
                         },
                         {
-                            "conductor": "Bellak, Richard",
-                            "orchestra": "White Mountain (NH) Festival Orchestra",
+                            "performers": {
+                                "conductor": "Bellak, Richard",
+                                "orchestra": "White Mountain (NH) Festival Orchestra"
+                            },
                             "date": "1974",
                             "label_number": "RCB NewClassic RCBCD002",
                             "timings": {
@@ -356,8 +396,10 @@
                             }
                         },
                         {
-                            "conductor": "Blunier, Stefan",
-                            "orchestra": "Beethoven Orchestra Bonn",
+                            "performers": {
+                                "conductor": "Blunier, Stefan",
+                                "orchestra": "Beethoven Orchestra Bonn"
+                            },
                             "date": "25-27/5/10",
                             "label_number": "MDG SACD 937 1673-6",
                             "timings": {
@@ -385,8 +427,10 @@
                             }
                         },
                         {
-                            "conductor": "Bosch, Marcus",
-                            "orchestra": "Aachen Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Bosch, Marcus",
+                                "orchestra": "Aachen Symphony Orchestra"
+                            },
                             "date": "26and28/5/12",
                             "label_number": "Coviello Classics SACD COV 31315",
                             "timings": {
@@ -414,6 +458,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Bosch, Marcus",
+                                "orchestra": "Aachen Symphony Orchestra"
+                            },
                             "date": "26and28/5/12",
                             "label_number": "Coviello Classics SACD Set 31215",
                             "timings": {
@@ -441,8 +489,10 @@
                             }
                         },
                         {
-                            "conductor": "Chailly, Riccardo",
-                            "orchestra": "RSO Berlin",
+                            "performers": {
+                                "conductor": "Chailly, Riccardo",
+                                "orchestra": "RSO Berlin"
+                            },
                             "date": "2/1988",
                             "label_number": "Decca/London CD 421-593-2",
                             "timings": {
@@ -470,6 +520,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Chailly, Riccardo",
+                                "orchestra": "RSO Berlin"
+                            },
                             "date": "2/1988",
                             "label_number": "Musical Heritage Soc CD 514794X",
                             "timings": {
@@ -497,8 +551,10 @@
                             }
                         },
                         {
-                            "conductor": "Cohen, Warren",
-                            "orchestra": "MusicaNova Orchestra",
+                            "performers": {
+                                "conductor": "Cohen, Warren",
+                                "orchestra": "MusicaNova Orchestra"
+                            },
                             "date": "1/4/19",
                             "label_number": "MusicaNova CD",
                             "timings": {
@@ -512,6 +568,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Cohen, Warren",
+                                "orchestra": "MusicaNova Orchestra"
+                            },
                             "date": "1/4/19",
                             "label_number": "MusicaNova DVD",
                             "timings": {
@@ -525,8 +585,10 @@
                             }
                         },
                         {
-                            "conductor": "Cohen, Warren",
-                            "orchestra": "MusicaNova Orchestra",
+                            "performers": {
+                                "conductor": "Cohen, Warren",
+                                "orchestra": "MusicaNova Orchestra"
+                            },
                             "date": "31/3/19",
                             "label_number": "MusicaNova CD",
                             "timings": {
@@ -554,6 +616,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Cohen, Warren",
+                                "orchestra": "MusicaNova Orchestra"
+                            },
                             "date": "31/3/19",
                             "label_number": "MusicaNova DVD",
                             "timings": {
@@ -581,8 +647,10 @@
                             }
                         },
                         {
-                            "conductor": "Davies, Dennis Russell",
-                            "orchestra": "Bruckner Orchestra Linz",
+                            "performers": {
+                                "conductor": "Davies, Dennis Russell",
+                                "orchestra": "Bruckner Orchestra Linz"
+                            },
                             "date": "23/11/08",
                             "label_number": "Sony Box Set 889854833725",
                             "timings": {
@@ -610,8 +678,10 @@
                             }
                         },
                         {
-                            "conductor": "Davies, Dennis Russell",
-                            "orchestra": "Linz Bruckner Orchestra",
+                            "performers": {
+                                "conductor": "Davies, Dennis Russell",
+                                "orchestra": "Linz Bruckner Orchestra"
+                            },
                             "date": "23/11/08",
                             "label_number": "Arte Nova 88697 74975 2",
                             "timings": {
@@ -639,8 +709,10 @@
                             }
                         },
                         {
-                            "conductor": "Fairfax, Bryan",
-                            "orchestra": "Polyphonia Orchestra of London",
+                            "performers": {
+                                "conductor": "Fairfax, Bryan",
+                                "orchestra": "Polyphonia Orchestra of London"
+                            },
                             "date": null,
                             "label_number": "Lanta Fe CD LF-435",
                             "timings": {
@@ -668,8 +740,10 @@
                             }
                         },
                         {
-                            "conductor": "Fischer, Ivan",
-                            "orchestra": "Concertgebouw Orchestra of Amsterdam",
+                            "performers": {
+                                "conductor": "Fischer, Ivan",
+                                "orchestra": "Concertgebouw Orchestra of Amsterdam"
+                            },
                             "date": "15/12/05",
                             "label_number": "Koninkijk Concertgebouworkewst 3 (Download)",
                             "timings": {
@@ -697,8 +771,10 @@
                             }
                         },
                         {
-                            "conductor": "Frontini, Roberto",
-                            "orchestra": "Luebeck Youth Orchestra",
+                            "performers": {
+                                "conductor": "Frontini, Roberto",
+                                "orchestra": "Luebeck Youth Orchestra"
+                            },
                             "date": "14/10/00",
                             "label_number": "Orchestra CD",
                             "timings": {
@@ -726,8 +802,10 @@
                             }
                         },
                         {
-                            "conductor": "Gelmini, Hortense von",
-                            "orchestra": "Nuremberg Symphony",
+                            "performers": {
+                                "conductor": "Gelmini, Hortense von",
+                                "orchestra": "Nuremberg Symphony"
+                            },
                             "date": "1975",
                             "label_number": "Colosseum LP SM 558",
                             "timings": {
@@ -755,6 +833,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Gelmini, Hortense von",
+                                "orchestra": "Nuremberg Symphony"
+                            },
                             "date": "1975",
                             "label_number": "Klassic Haus Restorations KHCD 2012-007",
                             "timings": {
@@ -782,8 +864,10 @@
                             }
                         },
                         {
-                            "conductor": "Guschlbauer, Theodor",
-                            "orchestra": "Bruckner Orchestra Linz",
+                            "performers": {
+                                "conductor": "Guschlbauer, Theodor",
+                                "orchestra": "Bruckner Orchestra Linz"
+                            },
                             "date": "6/7/1981",
                             "label_number": "Amadeo ARVS 501",
                             "timings": {
@@ -811,6 +895,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Guschlbauer, Theodor",
+                                "orchestra": "Bruckner Orchestra Linz"
+                            },
                             "date": "6/7/1981",
                             "label_number": "Camerata CD 25CM257",
                             "timings": {
@@ -838,6 +926,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Guschlbauer, Theodor",
+                                "orchestra": "Bruckner Orchestra Linz"
+                            },
                             "date": "6/7/1981",
                             "label_number": "Camerata CD 641 257 2",
                             "timings": {
@@ -865,6 +957,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Guschlbauer, Theodor",
+                                "orchestra": "Bruckner Orchestra Linz"
+                            },
                             "date": "6/7/1981",
                             "label_number": "ORF-Oberoesterreich CDT-1022",
                             "timings": {
@@ -892,8 +988,10 @@
                             }
                         },
                         {
-                            "conductor": "Inbal, Eliahu",
-                            "orchestra": "Frankfurt Radio Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Inbal, Eliahu",
+                                "orchestra": "Frankfurt Radio Symphony Orchestra"
+                            },
                             "date": "1/1990",
                             "label_number": "Teldec CD 0630-14194-2",
                             "timings": {
@@ -921,6 +1019,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Inbal, Eliahu",
+                                "orchestra": "Frankfurt Radio Symphony Orchestra"
+                            },
                             "date": "1/1990",
                             "label_number": "Teldec CD 2292-46330-2",
                             "timings": {
@@ -948,6 +1050,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Inbal, Eliahu",
+                                "orchestra": "Frankfurt Radio Symphony Orchestra"
+                            },
                             "date": "1/1990",
                             "label_number": "Teldec CD 419427",
                             "timings": {
@@ -975,6 +1081,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Inbal, Eliahu",
+                                "orchestra": "Frankfurt Radio Symphony Orchestra"
+                            },
                             "date": "1/1990",
                             "label_number": "Ultima CD 0927 41398 2",
                             "timings": {
@@ -1002,8 +1112,10 @@
                             }
                         },
                         {
-                            "conductor": "Jarvi, Paavo",
-                            "orchestra": "Frankfurt Radio Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Jarvi, Paavo",
+                                "orchestra": "Frankfurt Radio Symphony Orchestra"
+                            },
                             "date": "23-24/3/17",
                             "label_number": "RCA SACD Set SICC 10331-40",
                             "timings": {
@@ -1031,8 +1143,10 @@
                             }
                         },
                         {
-                            "conductor": "Komatsu, Kazuhiko",
-                            "orchestra": "Bruckner Orchestra Nagoya",
+                            "performers": {
+                                "conductor": "Komatsu, Kazuhiko",
+                                "orchestra": "Bruckner Orchestra Nagoya"
+                            },
                             "date": "12/6/05",
                             "label_number": "Voicelle CD BON-020-21",
                             "timings": {
@@ -1060,8 +1174,10 @@
                             }
                         },
                         {
-                            "conductor": "Lee, Dong-Ho",
-                            "orchestra": "Jeju Philharmonic Orchestra",
+                            "performers": {
+                                "conductor": "Lee, Dong-Ho",
+                                "orchestra": "Jeju Philharmonic Orchestra"
+                            },
                             "date": "14/2/08",
                             "label_number": "Jeju Philharmonic CD JPO 083",
                             "timings": {
@@ -1089,8 +1205,10 @@
                             }
                         },
                         {
-                            "conductor": "Lizzio, Alberto",
-                            "orchestra": "Philharmonia Slavonica",
+                            "performers": {
+                                "conductor": "Lizzio, Alberto",
+                                "orchestra": "Philharmonia Slavonica"
+                            },
                             "date": null,
                             "label_number": "ZYX CD CLS 4138",
                             "timings": {
@@ -1118,8 +1236,10 @@
                             }
                         },
                         {
-                            "conductor": "Maazel, Lorin",
-                            "orchestra": "Bavarian Radio Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Maazel, Lorin",
+                                "orchestra": "Bavarian Radio Symphony Orchestra"
+                            },
                             "date": "9-20/1/99",
                             "label_number": "Bavarian Radio Set",
                             "timings": {
@@ -1147,6 +1267,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Maazel, Lorin",
+                                "orchestra": "Bavarian Radio Symphony Orchestra"
+                            },
                             "date": "9-20/1/99",
                             "label_number": "BR Klassik Set 900711",
                             "timings": {
@@ -1174,6 +1298,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Maazel, Lorin",
+                                "orchestra": "Bavarian Radio Symphony Orchestra"
+                            },
                             "date": "9-20/1/99",
                             "label_number": "Von-Z S-2-226/7",
                             "timings": {
@@ -1201,8 +1329,10 @@
                             }
                         },
                         {
-                            "conductor": "Maerzendorfer, Ernst",
-                            "orchestra": "ORF Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Maerzendorfer, Ernst",
+                                "orchestra": "ORF Symphony Orchestra"
+                            },
                             "date": "13/1/72",
                             "label_number": "Adventure Classic MJ 26368",
                             "timings": {
@@ -1230,6 +1360,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Maerzendorfer, Ernst",
+                                "orchestra": "ORF Symphony Orchestra"
+                            },
                             "date": "13/1/72",
                             "label_number": "Classical Excellence LP CE 11022.",
                             "timings": {
@@ -1257,6 +1391,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Maerzendorfer, Ernst",
+                                "orchestra": "ORF Symphony Orchestra"
+                            },
                             "date": "13/1/72",
                             "label_number": "ZYX CD CAB-CD 10325",
                             "timings": {
@@ -1284,6 +1422,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Maerzendorfer, Ernst",
+                                "orchestra": "ORF Symphony Orchestra"
+                            },
                             "date": "13/1/72",
                             "label_number": "ZYX CD CLA 10053",
                             "timings": {
@@ -1311,6 +1453,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Maerzendorfer, Ernst",
+                                "orchestra": "ORF Symphony Orchestra"
+                            },
                             "date": "13/1/72",
                             "label_number": "ZYX CD CLS 4333",
                             "timings": {
@@ -1338,6 +1484,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Maerzendorfer, Ernst",
+                                "orchestra": "ORF Symphony Orchestra"
+                            },
                             "date": "13/1/72",
                             "label_number": "ZYX CD MVD 1013-2",
                             "timings": {
@@ -1365,8 +1515,10 @@
                             }
                         },
                         {
-                            "conductor": "Marriner, Neville",
-                            "orchestra": "SWR Symphony Orchestra of Stuttgart",
+                            "performers": {
+                                "conductor": "Marriner, Neville",
+                                "orchestra": "SWR Symphony Orchestra of Stuttgart"
+                            },
                             "date": "1993",
                             "label_number": "Laserlight CD 14 091",
                             "timings": {
@@ -1394,8 +1546,10 @@
                             }
                         },
                         {
-                            "conductor": "Mehta, Zubin",
-                            "orchestra": "Israel Philharmonic Orchestra",
+                            "performers": {
+                                "conductor": "Mehta, Zubin",
+                                "orchestra": "Israel Philharmonic Orchestra"
+                            },
                             "date": "7/1989",
                             "label_number": "Newton Classics CD 8802143",
                             "timings": {
@@ -1423,6 +1577,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Mehta, Zubin",
+                                "orchestra": "Israel Philharmonic Orchestra"
+                            },
                             "date": "7/1989",
                             "label_number": "Sony CD 45864",
                             "timings": {
@@ -1450,6 +1608,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Mehta, Zubin",
+                                "orchestra": "Israel Philharmonic Orchestra"
+                            },
                             "date": "7/1989",
                             "label_number": "Sony SB2K 87743",
                             "timings": {
@@ -1477,8 +1639,10 @@
                             }
                         },
                         {
-                            "conductor": "Minkowski, Marc",
-                            "orchestra": "Swedish Radio Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Minkowski, Marc",
+                                "orchestra": "Swedish Radio Symphony Orchestra"
+                            },
                             "date": "5/12/08",
                             "label_number": "Dirigent DIR-0157",
                             "timings": {
@@ -1506,8 +1670,10 @@
                             }
                         },
                         {
-                            "conductor": "Paternostro, Roberto",
-                            "orchestra": "Wuerttemberg Philharmonie Reutlingen",
+                            "performers": {
+                                "conductor": "Paternostro, Roberto",
+                                "orchestra": "Wuerttemberg Philharmonie Reutlingen"
+                            },
                             "date": "24/6/06",
                             "label_number": "Antes Edition SCH.3112 (Complete set)",
                             "timings": {
@@ -1535,6 +1701,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Paternostro, Roberto",
+                                "orchestra": "Wuerttemberg Philharmonie Reutlingen"
+                            },
                             "date": "24/6/06",
                             "label_number": "Membran Music Ltd. 232766 (Complete set)",
                             "timings": {
@@ -1562,8 +1732,10 @@
                             }
                         },
                         {
-                            "conductor": "Rozhdestvensky, Gennadi",
-                            "orchestra": "USSR Ministry of Culture Orchestra",
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Centurion Classics 10 CD Set ECC 10018",
                             "timings": {
@@ -1573,6 +1745,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Centurion Classics 10 CD Set ECC 10028",
                             "timings": {
@@ -1582,6 +1758,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Chant du Monde CD 2LDC-278.851/52",
                             "timings": {
@@ -1609,6 +1789,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Chant du Monde LP LDX 78.851/52",
                             "timings": {
@@ -1636,6 +1820,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Essential Media 894231577727",
                             "timings": {
@@ -1663,6 +1851,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "GPR CD GPR-004",
                             "timings": {
@@ -1690,6 +1882,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "High Definition Tape Transfers",
                             "timings": {
@@ -1717,6 +1913,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "JapanBMG/Melodiya CD BVCX38013/14",
                             "timings": {
@@ -1744,6 +1944,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Klassic Haus Restorations KHCD 2012-009",
                             "timings": {
@@ -1771,6 +1975,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Melodiya LP C10 21617 004",
                             "timings": {
@@ -1798,6 +2006,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Venezia CDVE 04240 (boxed set)",
                             "timings": {
@@ -1807,6 +2019,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Venezia CDVE 04368 (boxed set)",
                             "timings": {
@@ -1816,8 +2032,10 @@
                             }
                         },
                         {
-                            "conductor": "Schaller, Gerd",
-                            "orchestra": "Philharmonie Festiva",
+                            "performers": {
+                                "conductor": "Schaller, Gerd",
+                                "orchestra": "Philharmonie Festiva"
+                            },
                             "date": "3/2015",
                             "label_number": "Profil PH 15035",
                             "timings": {
@@ -1845,8 +2063,10 @@
                             }
                         },
                         {
-                            "conductor": "Shimono, Tatsuya",
-                            "orchestra": "Osaka Philharmonic Orchestra",
+                            "performers": {
+                                "conductor": "Shimono, Tatsuya",
+                                "orchestra": "Osaka Philharmonic Orchestra"
+                            },
                             "date": "17/11/05",
                             "label_number": "Avex Classics SACD AVCL-25099",
                             "timings": {
@@ -1874,8 +2094,10 @@
                             }
                         },
                         {
-                            "conductor": "Skrowaczewski, Stanislaw",
-                            "orchestra": "Frankfurt Radio Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Skrowaczewski, Stanislaw",
+                                "orchestra": "Frankfurt Radio Symphony Orchestra"
+                            },
                             "date": "1981",
                             "label_number": "En Larmes ELS 01-145/6",
                             "timings": {
@@ -1903,8 +2125,10 @@
                             }
                         },
                         {
-                            "conductor": "Skrowaczewski, Stanislaw",
-                            "orchestra": "Saarland Radio Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Skrowaczewski, Stanislaw",
+                                "orchestra": "Saarland Radio Symphony Orchestra"
+                            },
                             "date": "22-25/3/99",
                             "label_number": "Arte Nova CD 74321-75510",
                             "timings": {
@@ -1932,6 +2156,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Skrowaczewski, Stanislaw",
+                                "orchestra": "Saarland Radio Symphony Orchestra"
+                            },
                             "date": "22-25/3/99",
                             "label_number": "Briliant Classics Set 92084",
                             "timings": {
@@ -1959,6 +2187,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Skrowaczewski, Stanislaw",
+                                "orchestra": "Saarland Radio Symphony Orchestra"
+                            },
                             "date": "22-25/3/99",
                             "label_number": "Briliant Classics Set 94707",
                             "timings": {
@@ -1986,6 +2218,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Skrowaczewski, Stanislaw",
+                                "orchestra": "Saarland Radio Symphony Orchestra"
+                            },
                             "date": "22-25/3/99",
                             "label_number": "Oehms Classics CD OC209",
                             "timings": {
@@ -2013,8 +2249,10 @@
                             }
                         },
                         {
-                            "conductor": "Skrowaczewski, Stanislaw",
-                            "orchestra": "Yomiuri Nippon Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Skrowaczewski, Stanislaw",
+                                "orchestra": "Yomiuri Nippon Symphony Orchestra"
+                            },
                             "date": "8/10/14",
                             "label_number": "Denon CD COGQ-75",
                             "timings": {
@@ -2042,8 +2280,10 @@
                             }
                         },
                         {
-                            "conductor": "Solti, Georg",
-                            "orchestra": "Chicago Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Solti, Georg",
+                                "orchestra": "Chicago Symphony Orchestra"
+                            },
                             "date": "10/1995",
                             "label_number": "London/Decca CD 4521602 and full set",
                             "timings": {
@@ -2071,6 +2311,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Solti, Georg",
+                                "orchestra": "Chicago Symphony Orchestra"
+                            },
                             "date": "10/1995",
                             "label_number": "Universal Classics (Japan) UCCD 3729",
                             "timings": {
@@ -2080,8 +2324,10 @@
                             }
                         },
                         {
-                            "conductor": "Tintner, Georg",
-                            "orchestra": "National Symphony Orchestra of Ireland",
+                            "performers": {
+                                "conductor": "Tintner, Georg",
+                                "orchestra": "National Symphony Orchestra of Ireland"
+                            },
                             "date": "23-25/9/96",
                             "label_number": "Naxos CD 8.554215/6",
                             "timings": {
@@ -2109,6 +2355,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Tintner, Georg",
+                                "orchestra": "National Symphony Orchestra of Ireland"
+                            },
                             "date": "23-25/9/96",
                             "label_number": "Naxos CD Set 8.501101",
                             "timings": {
@@ -2136,6 +2386,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Tintner, Georg",
+                                "orchestra": "National Symphony Orchestra of Ireland"
+                            },
                             "date": "23-25/9/96",
                             "label_number": "Naxos CD Set 8.501104",
                             "timings": {
@@ -2163,6 +2417,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Tintner, Georg",
+                                "orchestra": "National Symphony Orchestra of Ireland"
+                            },
                             "date": "23-25/9/96",
                             "label_number": "Naxos CD Set 8.501205",
                             "timings": {
@@ -2190,8 +2448,10 @@
                             }
                         },
                         {
-                            "conductor": "Venzago, Mario",
-                            "orchestra": "Indianapolis Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Venzago, Mario",
+                                "orchestra": "Indianapolis Symphony Orchestra"
+                            },
                             "date": "9-10/1/04",
                             "label_number": "ISO Transcription CD",
                             "timings": {
@@ -2219,8 +2479,10 @@
                             }
                         },
                         {
-                            "conductor": "Venzago, Mario",
-                            "orchestra": "Tapiola Sinfonietta",
+                            "performers": {
+                                "conductor": "Venzago, Mario",
+                                "orchestra": "Tapiola Sinfonietta"
+                            },
                             "date": "11/2010",
                             "label_number": "CPO 550 023-2 (Set)",
                             "timings": {
@@ -2248,6 +2510,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Venzago, Mario",
+                                "orchestra": "Tapiola Sinfonietta"
+                            },
                             "date": "11/2010",
                             "label_number": "CPO 777 617-2",
                             "timings": {
@@ -2275,8 +2541,10 @@
                             }
                         },
                         {
-                            "conductor": "Vis, Lucas",
-                            "orchestra": "Southwest German Radio Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Vis, Lucas",
+                                "orchestra": "Southwest German Radio Symphony Orchestra"
+                            },
                             "date": "22-23/4/77",
                             "label_number": "En Larmes ELS-17-1036",
                             "timings": {
@@ -2304,8 +2572,10 @@
                             }
                         },
                         {
-                            "conductor": "Young, Simone",
-                            "orchestra": "Hamburg Philharmonic Orchestra",
+                            "performers": {
+                                "conductor": "Young, Simone",
+                                "orchestra": "Hamburg Philharmonic Orchestra"
+                            },
                             "date": "20-21/5/12",
                             "label_number": "Oehms Classics CD OC 026 (Set)",
                             "timings": {
@@ -2333,6 +2603,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Young, Simone",
+                                "orchestra": "Hamburg Philharmonic Orchestra"
+                            },
                             "date": "20-21/5/12",
                             "label_number": "Oehms Classics SACD OC 685",
                             "timings": {
@@ -2360,8 +2634,10 @@
                             }
                         },
                         {
-                            "conductor": "Beinum, Edward van",
-                            "orchestra": "Concertgebouw Orchestra",
+                            "performers": {
+                                "conductor": "Beinum, Edward van",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "13/3/55",
                             "label_number": "Disco Archivia CD DA-042",
                             "timings": {
@@ -2389,6 +2665,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Beinum, Edward van",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "13/3/55",
                             "label_number": "Haydn House CD SDA 2005",
                             "timings": {
@@ -2416,6 +2696,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Beinum, Edward van",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "13/3/55",
                             "label_number": "Vibrato CD VHL-240",
                             "timings": {
@@ -2443,8 +2727,10 @@
                             }
                         },
                         {
-                            "conductor": "Haitink, Bernard",
-                            "orchestra": "Concertgebouw Orchestra",
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "High Definition Tape Transfers HDDL396 24/192",
                             "timings": {
@@ -2472,6 +2758,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips CD 442 040-2 (full set)",
                             "timings": {
@@ -2499,6 +2789,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips CD 4756740 full set",
                             "timings": {
@@ -2526,6 +2820,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips Club Edition LP 66 011",
                             "timings": {
@@ -2553,6 +2851,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips LP 802 724 LY and full set.",
                             "timings": {
@@ -2580,6 +2882,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips LP PHS900-131",
                             "timings": {
@@ -2607,6 +2913,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips LP SAL 3602",
                             "timings": {
@@ -2634,8 +2944,10 @@
                             }
                         },
                         {
-                            "conductor": "Leitner, Ferdinand",
-                            "orchestra": "Bavarian Radio Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Leitner, Ferdinand",
+                                "orchestra": "Bavarian Radio Symphony Orchestra"
+                            },
                             "date": "11/6/1960",
                             "label_number": "Orfeo CD 269921",
                             "timings": {
@@ -2663,8 +2975,10 @@
                             }
                         },
                         {
-                            "conductor": "Matacic, Lovro von",
-                            "orchestra": "Philharmonia Orchestra",
+                            "performers": {
+                                "conductor": "Matacic, Lovro von",
+                                "orchestra": "Philharmonia Orchestra"
+                            },
                             "date": "Jan-56",
                             "label_number": "Angel LP 3548B",
                             "timings": {
@@ -2678,6 +2992,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Matacic, Lovro von",
+                                "orchestra": "Philharmonia Orchestra"
+                            },
                             "date": "Jan-56",
                             "label_number": "EMI CD S 68739 2",
                             "timings": {
@@ -2691,8 +3009,10 @@
                             }
                         },
                         {
-                            "conductor": "Spruit, Henk",
-                            "orchestra": "Concert Hall Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Bearac CD BRC 3381",
                             "timings": {
@@ -2720,6 +3040,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Concert Hall LP CHS 1142",
                             "timings": {
@@ -2747,6 +3071,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Forgotten Records FR 708",
                             "timings": {
@@ -2774,6 +3102,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Klassic Haus Restorations CD GSC 010",
                             "timings": {
@@ -2801,6 +3133,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Musical Masterpiece Society LP M-1142",
                             "timings": {
@@ -2828,6 +3164,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Nixa LP CLP 1142",
                             "timings": {
@@ -2855,8 +3195,10 @@
                             }
                         },
                         {
-                            "conductor": "Zaun, Fritz",
-                            "orchestra": "Staatskapelle Berlin",
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "Abruckner.com BSVD-0101",
                             "timings": {
@@ -2870,6 +3212,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "EH 844",
                             "timings": {
@@ -2883,6 +3229,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "EMI CD CDHC 5 66206-2",
                             "timings": {
@@ -2896,6 +3246,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "HMV C 2659 (78s)",
                             "timings": {
@@ -2909,6 +3263,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "Symposium CD 1258",
                             "timings": {
@@ -2922,6 +3280,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "Victor 11726 (78s)",
                             "timings": {
@@ -2935,8 +3297,10 @@
                             }
                         },
                         {
-                            "conductor": "Schmitz, Paul",
-                            "orchestra": "NDR Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Schmitz, Paul",
+                                "orchestra": "NDR Symphony Orchestra"
+                            },
                             "date": "1961",
                             "label_number": "Memories Reverence CD MR 2454",
                             "timings": {
@@ -2964,6 +3328,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Schmitz, Paul",
+                                "orchestra": "NDR Symphony Orchestra"
+                            },
                             "date": "1961",
                             "label_number": "Treasure of the Earth TOE 2077",
                             "timings": {
@@ -2991,8 +3359,10 @@
                             }
                         },
                         {
-                            "conductor": null,
-                            "orchestra": "Dino Sequi and Gerhard Hofer Piano Duo",
+                            "performers": {
+                                "conductor": null,
+                                "orchestra": "Dino Sequi and Gerhard Hofer Piano Duo"
+                            },
                             "date": "4/9/19",
                             "label_number": "Abruckner.com BSVD-0122",
                             "timings": {
@@ -3020,6 +3390,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": null,
+                                "orchestra": "Dino Sequi and Gerhard Hofer Piano Duo"
+                            },
                             "date": "4/9/19",
                             "label_number": "TOBU Set TBRCD 0080/0089-2",
                             "timings": {
@@ -3047,8 +3421,10 @@
                             }
                         },
                         {
-                            "conductor": "Boenig, Winifried",
-                            "orchestra": "Hohen Dome Organ. Cologne",
+                            "performers": {
+                                "conductor": "Boenig, Winifried",
+                                "orchestra": "Hohen Dome Organ. Cologne"
+                            },
                             "date": "13-16/8/04",
                             "label_number": "Motette SACD MOT 13254",
                             "timings": {
@@ -3062,8 +3438,10 @@
                             }
                         },
                         {
-                            "conductor": "Galard, Jean",
-                            "orchestra": "Organ of Beauvais Cathedral",
+                            "performers": {
+                                "conductor": "Galard, Jean",
+                                "orchestra": "Organ of Beauvais Cathedral"
+                            },
                             "date": null,
                             "label_number": "Organ ORG-72172 (Download only)",
                             "timings": {
@@ -3077,8 +3455,10 @@
                             }
                         },
                         {
-                            "conductor": "Hansjoerg, Albrecht",
-                            "orchestra": "Bruckner Organ, St Florian",
+                            "performers": {
+                                "conductor": "Hansjoerg, Albrecht",
+                                "orchestra": "Bruckner Organ, St Florian"
+                            },
                             "date": "22-25/5/20",
                             "label_number": "Oehms Classics CD OC 476",
                             "timings": {
@@ -3106,8 +3486,10 @@
                             }
                         },
                         {
-                            "conductor": "Horn, Erwin",
-                            "orchestra": "Organ in the Nurenberg Frauenkirch",
+                            "performers": {
+                                "conductor": "Horn, Erwin",
+                                "orchestra": "Organ in the Nurenberg Frauenkirch"
+                            },
                             "date": "Apr-90",
                             "label_number": "Novalis CD 150 071-2",
                             "timings": {
@@ -3121,8 +3503,10 @@
                             }
                         },
                         {
-                            "conductor": "Horn, Erwin",
-                            "orchestra": "Organ of the Stadtpfarrkirche zu Muennerstadt",
+                            "performers": {
+                                "conductor": "Horn, Erwin",
+                                "orchestra": "Organ of the Stadtpfarrkirche zu Muennerstadt"
+                            },
                             "date": "Jul-85",
                             "label_number": "Mitra LP 16180",
                             "timings": {
@@ -3136,8 +3520,10 @@
                             }
                         },
                         {
-                            "conductor": "Krueck, Christoph",
-                            "orchestra": "Organ of Schlosskirche. Bayreuth",
+                            "performers": {
+                                "conductor": "Krueck, Christoph",
+                                "orchestra": "Organ of Schlosskirche. Bayreuth"
+                            },
                             "date": null,
                             "label_number": "HTB CD HB 11300",
                             "timings": {
@@ -3151,8 +3537,10 @@
                             }
                         },
                         {
-                            "conductor": "Skudlik, Johannes",
-                            "orchestra": "Orgen des Muenster zu Dinkelsbuehl",
+                            "performers": {
+                                "conductor": "Skudlik, Johannes",
+                                "orchestra": "Orgen des Muenster zu Dinkelsbuehl"
+                            },
                             "date": "13-15/5/02",
                             "label_number": "Motette CD 13001",
                             "timings": {
@@ -3166,8 +3554,10 @@
                             }
                         },
                         {
-                            "conductor": "Yamamoto, Kyousei",
-                            "orchestra": "Maebashi Senior High School Wind Ensemble",
+                            "performers": {
+                                "conductor": "Yamamoto, Kyousei",
+                                "orchestra": "Maebashi Senior High School Wind Ensemble"
+                            },
                             "date": "2/2003",
                             "label_number": "Accord Publishing Sampler CD Vol. 9",
                             "timings": {
@@ -3181,8 +3571,10 @@
                             }
                         },
                         {
-                            "conductor": "Rozhdestvensky, Gennadi",
-                            "orchestra": "USSR Ministry of Culture Orchestra",
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Klassic Haus Restorations KHCD 2012-009",
                             "timings": {
@@ -3210,8 +3602,10 @@
                             }
                         },
                         {
-                            "conductor": "Venzago, Mario",
-                            "orchestra": "Tapiola Sinfonietta",
+                            "performers": {
+                                "conductor": "Venzago, Mario",
+                                "orchestra": "Tapiola Sinfonietta"
+                            },
                             "date": "11/2010",
                             "label_number": "CPO 777 617-2",
                             "timings": {
@@ -3247,8 +3641,10 @@
                 "recordings": {
                     "recording": [
                         {
-                            "conductor": "Beinum, Edward van",
-                            "orchestra": "Concertgebouw Orchestra",
+                            "performers": {
+                                "conductor": "Beinum, Edward van",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "13/3/55",
                             "label_number": "Disco Archivia CD DA-042",
                             "timings": {
@@ -3276,6 +3672,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Beinum, Edward van",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "13/3/55",
                             "label_number": "Haydn House CD SDA 2005",
                             "timings": {
@@ -3303,6 +3703,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Beinum, Edward van",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "13/3/55",
                             "label_number": "Vibrato CD VHL-240",
                             "timings": {
@@ -3330,8 +3734,10 @@
                             }
                         },
                         {
-                            "conductor": "Haitink, Bernard",
-                            "orchestra": "Concertgebouw Orchestra",
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "High Definition Tape Transfers HDDL396 24/192",
                             "timings": {
@@ -3359,6 +3765,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips CD 442 040-2 (full set)",
                             "timings": {
@@ -3386,6 +3796,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips CD 4756740 full set",
                             "timings": {
@@ -3413,6 +3827,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips Club Edition LP 66 011",
                             "timings": {
@@ -3440,6 +3858,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips LP 802 724 LY and full set.",
                             "timings": {
@@ -3467,6 +3889,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips LP PHS900-131",
                             "timings": {
@@ -3494,6 +3920,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Haitink, Bernard",
+                                "orchestra": "Concertgebouw Orchestra"
+                            },
                             "date": "4-7/7/66",
                             "label_number": "Philips LP SAL 3602",
                             "timings": {
@@ -3521,8 +3951,10 @@
                             }
                         },
                         {
-                            "conductor": "Leitner, Ferdinand",
-                            "orchestra": "Bavarian Radio Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Leitner, Ferdinand",
+                                "orchestra": "Bavarian Radio Symphony Orchestra"
+                            },
                             "date": "11/6/1960",
                             "label_number": "Orfeo CD 269921",
                             "timings": {
@@ -3550,8 +3982,10 @@
                             }
                         },
                         {
-                            "conductor": "Matacic, Lovro von",
-                            "orchestra": "Philharmonia Orchestra",
+                            "performers": {
+                                "conductor": "Matacic, Lovro von",
+                                "orchestra": "Philharmonia Orchestra"
+                            },
                             "date": "Jan-56",
                             "label_number": "Angel LP 3548B",
                             "timings": {
@@ -3565,6 +3999,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Matacic, Lovro von",
+                                "orchestra": "Philharmonia Orchestra"
+                            },
                             "date": "Jan-56",
                             "label_number": "EMI CD S 68739 2",
                             "timings": {
@@ -3578,8 +4016,10 @@
                             }
                         },
                         {
-                            "conductor": "Spruit, Henk",
-                            "orchestra": "Concert Hall Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Bearac CD BRC 3381",
                             "timings": {
@@ -3607,6 +4047,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Concert Hall LP CHS 1142",
                             "timings": {
@@ -3634,6 +4078,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Forgotten Records FR 708",
                             "timings": {
@@ -3661,6 +4109,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Klassic Haus Restorations CD GSC 010",
                             "timings": {
@@ -3688,6 +4140,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Musical Masterpiece Society LP M-1142",
                             "timings": {
@@ -3715,6 +4171,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Spruit, Henk",
+                                "orchestra": "Concert Hall Symphony Orchestra"
+                            },
                             "date": "1952",
                             "label_number": "Nixa LP CLP 1142",
                             "timings": {
@@ -3742,8 +4202,10 @@
                             }
                         },
                         {
-                            "conductor": "Zaun, Fritz",
-                            "orchestra": "Staatskapelle Berlin",
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "Abruckner.com BSVD-0101",
                             "timings": {
@@ -3757,6 +4219,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "EH 844",
                             "timings": {
@@ -3770,6 +4236,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "EMI CD CDHC 5 66206-2",
                             "timings": {
@@ -3783,6 +4253,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "HMV C 2659 (78s)",
                             "timings": {
@@ -3796,6 +4270,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "Symposium CD 1258",
                             "timings": {
@@ -3809,6 +4287,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Zaun, Fritz",
+                                "orchestra": "Staatskapelle Berlin"
+                            },
                             "date": "Oct-33",
                             "label_number": "Victor 11726 (78s)",
                             "timings": {
@@ -3822,8 +4304,10 @@
                             }
                         },
                         {
-                            "conductor": "Schmitz, Paul",
-                            "orchestra": "NDR Symphony Orchestra",
+                            "performers": {
+                                "conductor": "Schmitz, Paul",
+                                "orchestra": "NDR Symphony Orchestra"
+                            },
                             "date": "1961",
                             "label_number": "Memories Reverence CD MR 2454",
                             "timings": {
@@ -3851,6 +4335,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": "Schmitz, Paul",
+                                "orchestra": "NDR Symphony Orchestra"
+                            },
                             "date": "1961",
                             "label_number": "Treasure of the Earth TOE 2077",
                             "timings": {
@@ -3878,8 +4366,10 @@
                             }
                         },
                         {
-                            "conductor": null,
-                            "orchestra": "Dino Sequi and Gerhard Hofer Piano Duo",
+                            "performers": {
+                                "conductor": null,
+                                "orchestra": "Dino Sequi and Gerhard Hofer Piano Duo"
+                            },
                             "date": "4/9/19",
                             "label_number": "Abruckner.com BSVD-0122",
                             "timings": {
@@ -3907,6 +4397,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": null,
+                                "orchestra": "Dino Sequi and Gerhard Hofer Piano Duo"
+                            },
                             "date": "4/9/19",
                             "label_number": "TOBU Set TBRCD 0080/0089-2",
                             "timings": {
@@ -3934,8 +4428,10 @@
                             }
                         },
                         {
-                            "conductor": "Boenig, Winifried",
-                            "orchestra": "Hohen Dome Organ. Cologne",
+                            "performers": {
+                                "conductor": "Boenig, Winifried",
+                                "orchestra": "Hohen Dome Organ. Cologne"
+                            },
                             "date": "13-16/8/04",
                             "label_number": "Motette SACD MOT 13254",
                             "timings": {
@@ -3949,8 +4445,10 @@
                             }
                         },
                         {
-                            "conductor": "Galard, Jean",
-                            "orchestra": "Organ of Beauvais Cathedral",
+                            "performers": {
+                                "conductor": "Galard, Jean",
+                                "orchestra": "Organ of Beauvais Cathedral"
+                            },
                             "date": null,
                             "label_number": "Organ ORG-72172 (Download only)",
                             "timings": {
@@ -3964,8 +4462,10 @@
                             }
                         },
                         {
-                            "conductor": "Hansjoerg, Albrecht",
-                            "orchestra": "Bruckner Organ, St Florian",
+                            "performers": {
+                                "conductor": "Hansjoerg, Albrecht",
+                                "orchestra": "Bruckner Organ, St Florian"
+                            },
                             "date": "22-25/5/20",
                             "label_number": "Oehms Classics CD OC 476",
                             "timings": {
@@ -3993,8 +4493,10 @@
                             }
                         },
                         {
-                            "conductor": "Horn, Erwin",
-                            "orchestra": "Organ in the Nurenberg Frauenkirch",
+                            "performers": {
+                                "conductor": "Horn, Erwin",
+                                "orchestra": "Organ in the Nurenberg Frauenkirch"
+                            },
                             "date": "Apr-90",
                             "label_number": "Novalis CD 150 071-2",
                             "timings": {
@@ -4008,8 +4510,10 @@
                             }
                         },
                         {
-                            "conductor": "Horn, Erwin",
-                            "orchestra": "Organ of the Stadtpfarrkirche zu Muennerstadt",
+                            "performers": {
+                                "conductor": "Horn, Erwin",
+                                "orchestra": "Organ of the Stadtpfarrkirche zu Muennerstadt"
+                            },
                             "date": "Jul-85",
                             "label_number": "Mitra LP 16180",
                             "timings": {
@@ -4023,8 +4527,10 @@
                             }
                         },
                         {
-                            "conductor": "Krueck, Christoph",
-                            "orchestra": "Organ of Schlosskirche. Bayreuth",
+                            "performers": {
+                                "conductor": "Krueck, Christoph",
+                                "orchestra": "Organ of Schlosskirche. Bayreuth"
+                            },
                             "date": null,
                             "label_number": "HTB CD HB 11300",
                             "timings": {
@@ -4038,8 +4544,10 @@
                             }
                         },
                         {
-                            "conductor": "Skudlik, Johannes",
-                            "orchestra": "Orgen des Muenster zu Dinkelsbuehl",
+                            "performers": {
+                                "conductor": "Skudlik, Johannes",
+                                "orchestra": "Orgen des Muenster zu Dinkelsbuehl"
+                            },
                             "date": "13-15/5/02",
                             "label_number": "Motette CD 13001",
                             "timings": {
@@ -4053,8 +4561,10 @@
                             }
                         },
                         {
-                            "conductor": "Yamamoto, Kyousei",
-                            "orchestra": "Maebashi Senior High School Wind Ensemble",
+                            "performers": {
+                                "conductor": "Yamamoto, Kyousei",
+                                "orchestra": "Maebashi Senior High School Wind Ensemble"
+                            },
                             "date": "2/2003",
                             "label_number": "Accord Publishing Sampler CD Vol. 9",
                             "timings": {
@@ -4068,8 +4578,10 @@
                             }
                         },
                         {
-                            "conductor": "Rozhdestvensky, Gennadi",
-                            "orchestra": "USSR Ministry of Culture Orchestra",
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Klassic Haus Restorations KHCD 2012-009",
                             "timings": {
@@ -4097,8 +4609,10 @@
                             }
                         },
                         {
-                            "conductor": "Venzago, Mario",
-                            "orchestra": "Tapiola Sinfonietta",
+                            "performers": {
+                                "conductor": "Venzago, Mario",
+                                "orchestra": "Tapiola Sinfonietta"
+                            },
                             "date": "11/2010",
                             "label_number": "CPO 777 617-2",
                             "timings": {
@@ -4134,8 +4648,10 @@
                 "recordings": {
                     "recording": [
                         {
-                            "conductor": null,
-                            "orchestra": "Dino Sequi and Gerhard Hofer Piano Duo",
+                            "performers": {
+                                "conductor": null,
+                                "orchestra": "Dino Sequi and Gerhard Hofer Piano Duo"
+                            },
                             "date": "4/9/19",
                             "label_number": "Abruckner.com BSVD-0122",
                             "timings": {
@@ -4163,6 +4679,10 @@
                             }
                         },
                         {
+                            "performers": {
+                                "conductor": null,
+                                "orchestra": "Dino Sequi and Gerhard Hofer Piano Duo"
+                            },
                             "date": "4/9/19",
                             "label_number": "TOBU Set TBRCD 0080/0089-2",
                             "timings": {
@@ -4190,8 +4710,10 @@
                             }
                         },
                         {
-                            "conductor": "Boenig, Winifried",
-                            "orchestra": "Hohen Dome Organ. Cologne",
+                            "performers": {
+                                "conductor": "Boenig, Winifried",
+                                "orchestra": "Hohen Dome Organ. Cologne"
+                            },
                             "date": "13-16/8/04",
                             "label_number": "Motette SACD MOT 13254",
                             "timings": {
@@ -4205,8 +4727,10 @@
                             }
                         },
                         {
-                            "conductor": "Galard, Jean",
-                            "orchestra": "Organ of Beauvais Cathedral",
+                            "performers": {
+                                "conductor": "Galard, Jean",
+                                "orchestra": "Organ of Beauvais Cathedral"
+                            },
                             "date": null,
                             "label_number": "Organ ORG-72172 (Download only)",
                             "timings": {
@@ -4220,8 +4744,10 @@
                             }
                         },
                         {
-                            "conductor": "Hansjoerg, Albrecht",
-                            "orchestra": "Bruckner Organ, St Florian",
+                            "performers": {
+                                "conductor": "Hansjoerg, Albrecht",
+                                "orchestra": "Bruckner Organ, St Florian"
+                            },
                             "date": "22-25/5/20",
                             "label_number": "Oehms Classics CD OC 476",
                             "timings": {
@@ -4249,8 +4775,10 @@
                             }
                         },
                         {
-                            "conductor": "Horn, Erwin",
-                            "orchestra": "Organ in the Nurenberg Frauenkirch",
+                            "performers": {
+                                "conductor": "Horn, Erwin",
+                                "orchestra": "Organ in the Nurenberg Frauenkirch"
+                            },
                             "date": "Apr-90",
                             "label_number": "Novalis CD 150 071-2",
                             "timings": {
@@ -4264,8 +4792,10 @@
                             }
                         },
                         {
-                            "conductor": "Horn, Erwin",
-                            "orchestra": "Organ of the Stadtpfarrkirche zu Muennerstadt",
+                            "performers": {
+                                "conductor": "Horn, Erwin",
+                                "orchestra": "Organ of the Stadtpfarrkirche zu Muennerstadt"
+                            },
                             "date": "Jul-85",
                             "label_number": "Mitra LP 16180",
                             "timings": {
@@ -4279,8 +4809,10 @@
                             }
                         },
                         {
-                            "conductor": "Krueck, Christoph",
-                            "orchestra": "Organ of Schlosskirche. Bayreuth",
+                            "performers": {
+                                "conductor": "Krueck, Christoph",
+                                "orchestra": "Organ of Schlosskirche. Bayreuth"
+                            },
                             "date": null,
                             "label_number": "HTB CD HB 11300",
                             "timings": {
@@ -4294,8 +4826,10 @@
                             }
                         },
                         {
-                            "conductor": "Skudlik, Johannes",
-                            "orchestra": "Orgen des Muenster zu Dinkelsbuehl",
+                            "performers": {
+                                "conductor": "Skudlik, Johannes",
+                                "orchestra": "Orgen des Muenster zu Dinkelsbuehl"
+                            },
                             "date": "13-15/5/02",
                             "label_number": "Motette CD 13001",
                             "timings": {
@@ -4309,8 +4843,10 @@
                             }
                         },
                         {
-                            "conductor": "Yamamoto, Kyousei",
-                            "orchestra": "Maebashi Senior High School Wind Ensemble",
+                            "performers": {
+                                "conductor": "Yamamoto, Kyousei",
+                                "orchestra": "Maebashi Senior High School Wind Ensemble"
+                            },
                             "date": "2/2003",
                             "label_number": "Accord Publishing Sampler CD Vol. 9",
                             "timings": {
@@ -4324,8 +4860,10 @@
                             }
                         },
                         {
-                            "conductor": "Rozhdestvensky, Gennadi",
-                            "orchestra": "USSR Ministry of Culture Orchestra",
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Klassic Haus Restorations KHCD 2012-009",
                             "timings": {
@@ -4353,8 +4891,10 @@
                             }
                         },
                         {
-                            "conductor": "Venzago, Mario",
-                            "orchestra": "Tapiola Sinfonietta",
+                            "performers": {
+                                "conductor": "Venzago, Mario",
+                                "orchestra": "Tapiola Sinfonietta"
+                            },
                             "date": "11/2010",
                             "label_number": "CPO 777 617-2",
                             "timings": {
@@ -4390,8 +4930,10 @@
                 "recordings": {
                     "recording": [
                         {
-                            "conductor": "Rozhdestvensky, Gennadi",
-                            "orchestra": "USSR Ministry of Culture Orchestra",
+                            "performers": {
+                                "conductor": "Rozhdestvensky, Gennadi",
+                                "orchestra": "USSR Ministry of Culture Orchestra"
+                            },
                             "date": "1983",
                             "label_number": "Klassic Haus Restorations KHCD 2012-009",
                             "timings": {
@@ -4419,8 +4961,10 @@
                             }
                         },
                         {
-                            "conductor": "Venzago, Mario",
-                            "orchestra": "Tapiola Sinfonietta",
+                            "performers": {
+                                "conductor": "Venzago, Mario",
+                                "orchestra": "Tapiola Sinfonietta"
+                            },
                             "date": "11/2010",
                             "label_number": "CPO 777 617-2",
                             "timings": {
@@ -4455,8 +4999,10 @@
                 "version": "1877 Linz version with revisions - Ed. Leopold Nowak [1953]",
                 "recordings": {
                     "recording": {
-                        "conductor": "Venzago, Mario",
-                        "orchestra": "Tapiola Sinfonietta",
+                        "performers": {
+                            "conductor": "Venzago, Mario",
+                            "orchestra": "Tapiola Sinfonietta"
+                        },
                         "date": "11/2010",
                         "label_number": "CPO 777 617-2",
                         "timings": {

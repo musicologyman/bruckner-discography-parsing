@@ -5,8 +5,10 @@
     <version>1869 Ed. Leopold Nowak [1968]</version>
     <recordings>
       <recording>
-        <conductor>Asahina, Takashi</conductor>
-        <orchestra>Osaka Philharmonic Orchestra</orchestra>
+        <performers>
+          <conductor>Asahina, Takashi</conductor>
+          <orchestra>Osaka Philharmonic Orchestra</orchestra>
+        </performers>
         <date>5/6/1978</date>
         <label_number>JVC CD VICC 40190-99 (full set) .</label_number>
         <timings>
@@ -32,6 +34,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Asahina, Takashi</conductor>
+          <orchestra>Osaka Philharmonic Orchestra</orchestra>
+        </performers>
         <date>5/6/1978</date>
         <label_number>JVC CD VICC 60281-91 (full set)</label_number>
         <timings>
@@ -57,6 +63,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Asahina, Takashi</conductor>
+          <orchestra>Osaka Philharmonic Orchestra</orchestra>
+        </performers>
         <date>5/6/1978</date>
         <label_number>JVC LP 9523</label_number>
         <timings>
@@ -82,6 +92,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Asahina, Takashi</conductor>
+          <orchestra>Osaka Philharmonic Orchestra</orchestra>
+        </performers>
         <date>5/6/1978</date>
         <label_number>Tower Records SACD Set GCAC-1018-20</label_number>
         <timings>
@@ -107,8 +121,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Asahina, Takashi</conductor>
-        <orchestra>Osaka Philharmonic Orchestra</orchestra>
+        <performers>
+          <conductor>Asahina, Takashi</conductor>
+          <orchestra>Osaka Philharmonic Orchestra</orchestra>
+        </performers>
         <date>8/10/1981</date>
         <label_number>Asahina Society CD TAS-002</label_number>
         <timings>
@@ -134,8 +150,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Asahina, Takashi</conductor>
-        <orchestra>Sapporo Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Asahina, Takashi</conductor>
+          <orchestra>Sapporo Symphony Orchestra</orchestra>
+        </performers>
         <date>21/5/82</date>
         <label_number>Tower/Fontec SACD TWFS 90007</label_number>
         <timings>
@@ -161,8 +179,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Asahina, Takashi</conductor>
-        <orchestra>Tokyo Metropolitan Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Asahina, Takashi</conductor>
+          <orchestra>Tokyo Metropolitan Symphony Orchestra</orchestra>
+        </performers>
         <date>12/5/1982</date>
         <label_number>Fontec CD FOCD 9230</label_number>
         <timings>
@@ -188,8 +208,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Barenboim, Daniel</conductor>
-        <orchestra>Chicago Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Barenboim, Daniel</conductor>
+          <orchestra>Chicago Symphony Orchestra</orchestra>
+        </performers>
         <date>3/1979</date>
         <label_number>DG CD 159327</label_number>
         <timings>
@@ -215,6 +237,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Barenboim, Daniel</conductor>
+          <orchestra>Chicago Symphony Orchestra</orchestra>
+        </performers>
         <date>3/1979</date>
         <label_number>DG CD 429 025-2 (full set)</label_number>
         <timings>
@@ -240,6 +266,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Barenboim, Daniel</conductor>
+          <orchestra>Chicago Symphony Orchestra</orchestra>
+        </performers>
         <date>3/1979</date>
         <label_number>DG CD 437250</label_number>
         <timings>
@@ -265,6 +295,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Barenboim, Daniel</conductor>
+          <orchestra>Chicago Symphony Orchestra</orchestra>
+        </performers>
         <date>3/1979</date>
         <label_number>DG LP 2531 319</label_number>
         <timings>
@@ -290,6 +324,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Barenboim, Daniel</conductor>
+          <orchestra>Chicago Symphony Orchestra</orchestra>
+        </performers>
         <date>3/1979</date>
         <label_number>DG LP 2740 253 (full set)</label_number>
         <timings>
@@ -315,8 +353,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Bellak, Richard</conductor>
-        <orchestra>White Mountain (NH) Festival Orchestra</orchestra>
+        <performers>
+          <conductor>Bellak, Richard</conductor>
+          <orchestra>White Mountain (NH) Festival Orchestra</orchestra>
+        </performers>
         <date>1974</date>
         <label_number>RCB NewClassic RCBCD002</label_number>
         <timings>
@@ -330,8 +370,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Blunier, Stefan</conductor>
-        <orchestra>Beethoven Orchestra Bonn</orchestra>
+        <performers>
+          <conductor>Blunier, Stefan</conductor>
+          <orchestra>Beethoven Orchestra Bonn</orchestra>
+        </performers>
         <date>25-27/5/10</date>
         <label_number>MDG SACD 937 1673-6</label_number>
         <timings>
@@ -357,8 +399,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Bosch, Marcus</conductor>
-        <orchestra>Aachen Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Bosch, Marcus</conductor>
+          <orchestra>Aachen Symphony Orchestra</orchestra>
+        </performers>
         <date>26and28/5/12</date>
         <label_number>Coviello Classics SACD COV 31315</label_number>
         <timings>
@@ -384,6 +428,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Bosch, Marcus</conductor>
+          <orchestra>Aachen Symphony Orchestra</orchestra>
+        </performers>
         <date>26and28/5/12</date>
         <label_number>Coviello Classics SACD Set 31215</label_number>
         <timings>
@@ -409,8 +457,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Chailly, Riccardo</conductor>
-        <orchestra>RSO Berlin</orchestra>
+        <performers>
+          <conductor>Chailly, Riccardo</conductor>
+          <orchestra>RSO Berlin</orchestra>
+        </performers>
         <date>2/1988</date>
         <label_number>Decca/London CD 421-593-2</label_number>
         <timings>
@@ -436,6 +486,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Chailly, Riccardo</conductor>
+          <orchestra>RSO Berlin</orchestra>
+        </performers>
         <date>2/1988</date>
         <label_number>Musical Heritage Soc CD 514794X</label_number>
         <timings>
@@ -461,8 +515,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Cohen, Warren</conductor>
-        <orchestra>MusicaNova Orchestra</orchestra>
+        <performers>
+          <conductor>Cohen, Warren</conductor>
+          <orchestra>MusicaNova Orchestra</orchestra>
+        </performers>
         <date>1/4/19</date>
         <label_number>MusicaNova CD</label_number>
         <timings>
@@ -476,6 +532,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Cohen, Warren</conductor>
+          <orchestra>MusicaNova Orchestra</orchestra>
+        </performers>
         <date>1/4/19</date>
         <label_number>MusicaNova DVD</label_number>
         <timings>
@@ -489,8 +549,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Cohen, Warren</conductor>
-        <orchestra>MusicaNova Orchestra</orchestra>
+        <performers>
+          <conductor>Cohen, Warren</conductor>
+          <orchestra>MusicaNova Orchestra</orchestra>
+        </performers>
         <date>31/3/19</date>
         <label_number>MusicaNova CD</label_number>
         <timings>
@@ -516,6 +578,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Cohen, Warren</conductor>
+          <orchestra>MusicaNova Orchestra</orchestra>
+        </performers>
         <date>31/3/19</date>
         <label_number>MusicaNova DVD</label_number>
         <timings>
@@ -541,8 +607,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Davies, Dennis Russell</conductor>
-        <orchestra>Bruckner Orchestra Linz</orchestra>
+        <performers>
+          <conductor>Davies, Dennis Russell</conductor>
+          <orchestra>Bruckner Orchestra Linz</orchestra>
+        </performers>
         <date>23/11/08</date>
         <label_number>Sony Box Set 889854833725</label_number>
         <timings>
@@ -568,8 +636,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Davies, Dennis Russell</conductor>
-        <orchestra>Linz Bruckner Orchestra</orchestra>
+        <performers>
+          <conductor>Davies, Dennis Russell</conductor>
+          <orchestra>Linz Bruckner Orchestra</orchestra>
+        </performers>
         <date>23/11/08</date>
         <label_number>Arte Nova 88697 74975 2</label_number>
         <timings>
@@ -595,8 +665,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Fairfax, Bryan</conductor>
-        <orchestra>Polyphonia Orchestra of London</orchestra>
+        <performers>
+          <conductor>Fairfax, Bryan</conductor>
+          <orchestra>Polyphonia Orchestra of London</orchestra>
+        </performers>
         <date/>
         <label_number>Lanta Fe CD LF-435</label_number>
         <timings>
@@ -622,8 +694,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Fischer, Ivan</conductor>
-        <orchestra>Concertgebouw Orchestra of Amsterdam</orchestra>
+        <performers>
+          <conductor>Fischer, Ivan</conductor>
+          <orchestra>Concertgebouw Orchestra of Amsterdam</orchestra>
+        </performers>
         <date>15/12/05</date>
         <label_number>Koninkijk Concertgebouworkewst 3 (Download)</label_number>
         <timings>
@@ -649,8 +723,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Frontini, Roberto</conductor>
-        <orchestra>Luebeck Youth Orchestra</orchestra>
+        <performers>
+          <conductor>Frontini, Roberto</conductor>
+          <orchestra>Luebeck Youth Orchestra</orchestra>
+        </performers>
         <date>14/10/00</date>
         <label_number>Orchestra CD</label_number>
         <timings>
@@ -676,8 +752,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Gelmini, Hortense von</conductor>
-        <orchestra>Nuremberg Symphony</orchestra>
+        <performers>
+          <conductor>Gelmini, Hortense von</conductor>
+          <orchestra>Nuremberg Symphony</orchestra>
+        </performers>
         <date>1975</date>
         <label_number>Colosseum LP SM 558</label_number>
         <timings>
@@ -703,6 +781,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Gelmini, Hortense von</conductor>
+          <orchestra>Nuremberg Symphony</orchestra>
+        </performers>
         <date>1975</date>
         <label_number>Klassic Haus Restorations KHCD 2012-007</label_number>
         <timings>
@@ -728,8 +810,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Guschlbauer, Theodor</conductor>
-        <orchestra>Bruckner Orchestra Linz</orchestra>
+        <performers>
+          <conductor>Guschlbauer, Theodor</conductor>
+          <orchestra>Bruckner Orchestra Linz</orchestra>
+        </performers>
         <date>6/7/1981</date>
         <label_number>Amadeo ARVS 501</label_number>
         <timings>
@@ -755,6 +839,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Guschlbauer, Theodor</conductor>
+          <orchestra>Bruckner Orchestra Linz</orchestra>
+        </performers>
         <date>6/7/1981</date>
         <label_number>Camerata CD 25CM257</label_number>
         <timings>
@@ -780,6 +868,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Guschlbauer, Theodor</conductor>
+          <orchestra>Bruckner Orchestra Linz</orchestra>
+        </performers>
         <date>6/7/1981</date>
         <label_number>Camerata CD 641 257 2</label_number>
         <timings>
@@ -805,6 +897,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Guschlbauer, Theodor</conductor>
+          <orchestra>Bruckner Orchestra Linz</orchestra>
+        </performers>
         <date>6/7/1981</date>
         <label_number>ORF-Oberoesterreich CDT-1022</label_number>
         <timings>
@@ -830,8 +926,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Inbal, Eliahu</conductor>
-        <orchestra>Frankfurt Radio Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Inbal, Eliahu</conductor>
+          <orchestra>Frankfurt Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>1/1990</date>
         <label_number>Teldec CD 0630-14194-2</label_number>
         <timings>
@@ -857,6 +955,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Inbal, Eliahu</conductor>
+          <orchestra>Frankfurt Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>1/1990</date>
         <label_number>Teldec CD 2292-46330-2</label_number>
         <timings>
@@ -882,6 +984,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Inbal, Eliahu</conductor>
+          <orchestra>Frankfurt Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>1/1990</date>
         <label_number>Teldec CD 419427</label_number>
         <timings>
@@ -907,6 +1013,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Inbal, Eliahu</conductor>
+          <orchestra>Frankfurt Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>1/1990</date>
         <label_number>Ultima CD 0927 41398 2</label_number>
         <timings>
@@ -932,8 +1042,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Jarvi, Paavo</conductor>
-        <orchestra>Frankfurt Radio Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Jarvi, Paavo</conductor>
+          <orchestra>Frankfurt Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>23-24/3/17</date>
         <label_number>RCA SACD Set SICC 10331-40</label_number>
         <timings>
@@ -959,8 +1071,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Komatsu, Kazuhiko</conductor>
-        <orchestra>Bruckner Orchestra Nagoya</orchestra>
+        <performers>
+          <conductor>Komatsu, Kazuhiko</conductor>
+          <orchestra>Bruckner Orchestra Nagoya</orchestra>
+        </performers>
         <date>12/6/05</date>
         <label_number>Voicelle CD BON-020-21</label_number>
         <timings>
@@ -986,8 +1100,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Lee, Dong-Ho</conductor>
-        <orchestra>Jeju Philharmonic Orchestra</orchestra>
+        <performers>
+          <conductor>Lee, Dong-Ho</conductor>
+          <orchestra>Jeju Philharmonic Orchestra</orchestra>
+        </performers>
         <date>14/2/08</date>
         <label_number>Jeju Philharmonic CD JPO 083</label_number>
         <timings>
@@ -1013,8 +1129,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Lizzio, Alberto</conductor>
-        <orchestra>Philharmonia Slavonica</orchestra>
+        <performers>
+          <conductor>Lizzio, Alberto</conductor>
+          <orchestra>Philharmonia Slavonica</orchestra>
+        </performers>
         <date/>
         <label_number>ZYX CD CLS 4138</label_number>
         <timings>
@@ -1040,8 +1158,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Maazel, Lorin</conductor>
-        <orchestra>Bavarian Radio Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Maazel, Lorin</conductor>
+          <orchestra>Bavarian Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>9-20/1/99</date>
         <label_number>Bavarian Radio Set</label_number>
         <timings>
@@ -1067,6 +1187,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Maazel, Lorin</conductor>
+          <orchestra>Bavarian Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>9-20/1/99</date>
         <label_number>BR Klassik Set 900711</label_number>
         <timings>
@@ -1092,6 +1216,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Maazel, Lorin</conductor>
+          <orchestra>Bavarian Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>9-20/1/99</date>
         <label_number>Von-Z S-2-226/7</label_number>
         <timings>
@@ -1117,8 +1245,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Maerzendorfer, Ernst</conductor>
-        <orchestra>ORF Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Maerzendorfer, Ernst</conductor>
+          <orchestra>ORF Symphony Orchestra</orchestra>
+        </performers>
         <date>13/1/72</date>
         <label_number>Adventure Classic MJ 26368</label_number>
         <timings>
@@ -1144,6 +1274,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Maerzendorfer, Ernst</conductor>
+          <orchestra>ORF Symphony Orchestra</orchestra>
+        </performers>
         <date>13/1/72</date>
         <label_number>Classical Excellence LP CE 11022.</label_number>
         <timings>
@@ -1169,6 +1303,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Maerzendorfer, Ernst</conductor>
+          <orchestra>ORF Symphony Orchestra</orchestra>
+        </performers>
         <date>13/1/72</date>
         <label_number>ZYX CD CAB-CD 10325</label_number>
         <timings>
@@ -1194,6 +1332,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Maerzendorfer, Ernst</conductor>
+          <orchestra>ORF Symphony Orchestra</orchestra>
+        </performers>
         <date>13/1/72</date>
         <label_number>ZYX CD CLA 10053</label_number>
         <timings>
@@ -1219,6 +1361,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Maerzendorfer, Ernst</conductor>
+          <orchestra>ORF Symphony Orchestra</orchestra>
+        </performers>
         <date>13/1/72</date>
         <label_number>ZYX CD CLS 4333</label_number>
         <timings>
@@ -1244,6 +1390,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Maerzendorfer, Ernst</conductor>
+          <orchestra>ORF Symphony Orchestra</orchestra>
+        </performers>
         <date>13/1/72</date>
         <label_number>ZYX CD MVD 1013-2</label_number>
         <timings>
@@ -1269,8 +1419,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Marriner, Neville</conductor>
-        <orchestra>SWR Symphony Orchestra of Stuttgart</orchestra>
+        <performers>
+          <conductor>Marriner, Neville</conductor>
+          <orchestra>SWR Symphony Orchestra of Stuttgart</orchestra>
+        </performers>
         <date>1993</date>
         <label_number>Laserlight CD 14 091</label_number>
         <timings>
@@ -1296,8 +1448,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Mehta, Zubin</conductor>
-        <orchestra>Israel Philharmonic Orchestra</orchestra>
+        <performers>
+          <conductor>Mehta, Zubin</conductor>
+          <orchestra>Israel Philharmonic Orchestra</orchestra>
+        </performers>
         <date>7/1989</date>
         <label_number>Newton Classics CD 8802143</label_number>
         <timings>
@@ -1323,6 +1477,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Mehta, Zubin</conductor>
+          <orchestra>Israel Philharmonic Orchestra</orchestra>
+        </performers>
         <date>7/1989</date>
         <label_number>Sony CD 45864</label_number>
         <timings>
@@ -1348,6 +1506,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Mehta, Zubin</conductor>
+          <orchestra>Israel Philharmonic Orchestra</orchestra>
+        </performers>
         <date>7/1989</date>
         <label_number>Sony SB2K 87743</label_number>
         <timings>
@@ -1373,8 +1535,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Minkowski, Marc</conductor>
-        <orchestra>Swedish Radio Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Minkowski, Marc</conductor>
+          <orchestra>Swedish Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>5/12/08</date>
         <label_number>Dirigent DIR-0157</label_number>
         <timings>
@@ -1400,8 +1564,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Paternostro, Roberto</conductor>
-        <orchestra>Wuerttemberg Philharmonie Reutlingen</orchestra>
+        <performers>
+          <conductor>Paternostro, Roberto</conductor>
+          <orchestra>Wuerttemberg Philharmonie Reutlingen</orchestra>
+        </performers>
         <date>24/6/06</date>
         <label_number>Antes Edition SCH.3112 (Complete set)</label_number>
         <timings>
@@ -1427,6 +1593,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Paternostro, Roberto</conductor>
+          <orchestra>Wuerttemberg Philharmonie Reutlingen</orchestra>
+        </performers>
         <date>24/6/06</date>
         <label_number>Membran Music Ltd. 232766 (Complete set)</label_number>
         <timings>
@@ -1452,8 +1622,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Rozhdestvensky, Gennadi</conductor>
-        <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Centurion Classics 10 CD Set ECC 10018</label_number>
         <timings>
@@ -1463,6 +1635,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Centurion Classics 10 CD Set ECC 10028</label_number>
         <timings>
@@ -1472,6 +1648,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Chant du Monde CD 2LDC-278.851/52</label_number>
         <timings>
@@ -1497,6 +1677,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Chant du Monde LP LDX 78.851/52</label_number>
         <timings>
@@ -1522,6 +1706,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Essential Media 894231577727</label_number>
         <timings>
@@ -1547,6 +1735,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>GPR CD GPR-004</label_number>
         <timings>
@@ -1572,6 +1764,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>High Definition Tape Transfers</label_number>
         <timings>
@@ -1597,6 +1793,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>JapanBMG/Melodiya CD BVCX38013/14</label_number>
         <timings>
@@ -1622,6 +1822,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Klassic Haus Restorations KHCD 2012-009</label_number>
         <timings>
@@ -1647,6 +1851,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Melodiya LP C10 21617 004</label_number>
         <timings>
@@ -1672,6 +1880,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Venezia CDVE 04240 (boxed set)</label_number>
         <timings>
@@ -1681,6 +1893,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Venezia CDVE 04368 (boxed set)</label_number>
         <timings>
@@ -1690,8 +1906,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Schaller, Gerd</conductor>
-        <orchestra>Philharmonie Festiva</orchestra>
+        <performers>
+          <conductor>Schaller, Gerd</conductor>
+          <orchestra>Philharmonie Festiva</orchestra>
+        </performers>
         <date>3/2015</date>
         <label_number>Profil PH 15035</label_number>
         <timings>
@@ -1717,8 +1935,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Shimono, Tatsuya</conductor>
-        <orchestra>Osaka Philharmonic Orchestra</orchestra>
+        <performers>
+          <conductor>Shimono, Tatsuya</conductor>
+          <orchestra>Osaka Philharmonic Orchestra</orchestra>
+        </performers>
         <date>17/11/05</date>
         <label_number>Avex Classics SACD AVCL-25099</label_number>
         <timings>
@@ -1744,8 +1964,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Skrowaczewski, Stanislaw</conductor>
-        <orchestra>Frankfurt Radio Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Skrowaczewski, Stanislaw</conductor>
+          <orchestra>Frankfurt Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>1981</date>
         <label_number>En Larmes ELS 01-145/6</label_number>
         <timings>
@@ -1771,8 +1993,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Skrowaczewski, Stanislaw</conductor>
-        <orchestra>Saarland Radio Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Skrowaczewski, Stanislaw</conductor>
+          <orchestra>Saarland Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>22-25/3/99</date>
         <label_number>Arte Nova CD 74321-75510</label_number>
         <timings>
@@ -1798,6 +2022,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Skrowaczewski, Stanislaw</conductor>
+          <orchestra>Saarland Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>22-25/3/99</date>
         <label_number>Briliant Classics Set 92084</label_number>
         <timings>
@@ -1823,6 +2051,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Skrowaczewski, Stanislaw</conductor>
+          <orchestra>Saarland Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>22-25/3/99</date>
         <label_number>Briliant Classics Set 94707</label_number>
         <timings>
@@ -1848,6 +2080,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Skrowaczewski, Stanislaw</conductor>
+          <orchestra>Saarland Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>22-25/3/99</date>
         <label_number>Oehms Classics CD OC209</label_number>
         <timings>
@@ -1873,8 +2109,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Skrowaczewski, Stanislaw</conductor>
-        <orchestra>Yomiuri Nippon Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Skrowaczewski, Stanislaw</conductor>
+          <orchestra>Yomiuri Nippon Symphony Orchestra</orchestra>
+        </performers>
         <date>8/10/14</date>
         <label_number>Denon CD COGQ-75</label_number>
         <timings>
@@ -1900,8 +2138,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Solti, Georg</conductor>
-        <orchestra>Chicago Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Solti, Georg</conductor>
+          <orchestra>Chicago Symphony Orchestra</orchestra>
+        </performers>
         <date>10/1995</date>
         <label_number>London/Decca CD 4521602 and full set</label_number>
         <timings>
@@ -1927,6 +2167,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Solti, Georg</conductor>
+          <orchestra>Chicago Symphony Orchestra</orchestra>
+        </performers>
         <date>10/1995</date>
         <label_number>Universal Classics (Japan) UCCD 3729</label_number>
         <timings>
@@ -1936,8 +2180,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Tintner, Georg</conductor>
-        <orchestra>National Symphony Orchestra of Ireland</orchestra>
+        <performers>
+          <conductor>Tintner, Georg</conductor>
+          <orchestra>National Symphony Orchestra of Ireland</orchestra>
+        </performers>
         <date>23-25/9/96</date>
         <label_number>Naxos CD 8.554215/6</label_number>
         <timings>
@@ -1963,6 +2209,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Tintner, Georg</conductor>
+          <orchestra>National Symphony Orchestra of Ireland</orchestra>
+        </performers>
         <date>23-25/9/96</date>
         <label_number>Naxos CD Set 8.501101</label_number>
         <timings>
@@ -1988,6 +2238,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Tintner, Georg</conductor>
+          <orchestra>National Symphony Orchestra of Ireland</orchestra>
+        </performers>
         <date>23-25/9/96</date>
         <label_number>Naxos CD Set 8.501104</label_number>
         <timings>
@@ -2013,6 +2267,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Tintner, Georg</conductor>
+          <orchestra>National Symphony Orchestra of Ireland</orchestra>
+        </performers>
         <date>23-25/9/96</date>
         <label_number>Naxos CD Set 8.501205</label_number>
         <timings>
@@ -2038,8 +2296,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Venzago, Mario</conductor>
-        <orchestra>Indianapolis Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Venzago, Mario</conductor>
+          <orchestra>Indianapolis Symphony Orchestra</orchestra>
+        </performers>
         <date>9-10/1/04</date>
         <label_number>ISO Transcription CD</label_number>
         <timings>
@@ -2065,8 +2325,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Venzago, Mario</conductor>
-        <orchestra>Tapiola Sinfonietta</orchestra>
+        <performers>
+          <conductor>Venzago, Mario</conductor>
+          <orchestra>Tapiola Sinfonietta</orchestra>
+        </performers>
         <date>11/2010</date>
         <label_number>CPO 550 023-2 (Set)</label_number>
         <timings>
@@ -2092,6 +2354,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Venzago, Mario</conductor>
+          <orchestra>Tapiola Sinfonietta</orchestra>
+        </performers>
         <date>11/2010</date>
         <label_number>CPO 777 617-2</label_number>
         <timings>
@@ -2117,8 +2383,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Vis, Lucas</conductor>
-        <orchestra>Southwest German Radio Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Vis, Lucas</conductor>
+          <orchestra>Southwest German Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>22-23/4/77</date>
         <label_number>En Larmes ELS-17-1036</label_number>
         <timings>
@@ -2144,8 +2412,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Young, Simone</conductor>
-        <orchestra>Hamburg Philharmonic Orchestra</orchestra>
+        <performers>
+          <conductor>Young, Simone</conductor>
+          <orchestra>Hamburg Philharmonic Orchestra</orchestra>
+        </performers>
         <date>20-21/5/12</date>
         <label_number>Oehms Classics CD OC 026 (Set)</label_number>
         <timings>
@@ -2171,6 +2441,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Young, Simone</conductor>
+          <orchestra>Hamburg Philharmonic Orchestra</orchestra>
+        </performers>
         <date>20-21/5/12</date>
         <label_number>Oehms Classics SACD OC 685</label_number>
         <timings>
@@ -2196,8 +2470,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Beinum, Edward van</conductor>
-        <orchestra>Concertgebouw Orchestra</orchestra>
+        <performers>
+          <conductor>Beinum, Edward van</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>13/3/55</date>
         <label_number>Disco Archivia CD DA-042</label_number>
         <timings>
@@ -2223,6 +2499,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Beinum, Edward van</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>13/3/55</date>
         <label_number>Haydn House CD SDA 2005</label_number>
         <timings>
@@ -2248,6 +2528,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Beinum, Edward van</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>13/3/55</date>
         <label_number>Vibrato CD VHL-240</label_number>
         <timings>
@@ -2273,8 +2557,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Haitink, Bernard</conductor>
-        <orchestra>Concertgebouw Orchestra</orchestra>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>High Definition Tape Transfers HDDL396 24/192</label_number>
         <timings>
@@ -2300,6 +2586,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips CD 442 040-2 (full set)</label_number>
         <timings>
@@ -2325,6 +2615,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips CD 4756740 full set</label_number>
         <timings>
@@ -2350,6 +2644,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips Club Edition LP 66 011</label_number>
         <timings>
@@ -2375,6 +2673,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips LP 802 724 LY and full set.</label_number>
         <timings>
@@ -2400,6 +2702,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips LP PHS900-131</label_number>
         <timings>
@@ -2425,6 +2731,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips LP SAL 3602</label_number>
         <timings>
@@ -2450,8 +2760,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Leitner, Ferdinand</conductor>
-        <orchestra>Bavarian Radio Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Leitner, Ferdinand</conductor>
+          <orchestra>Bavarian Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>11/6/1960</date>
         <label_number>Orfeo CD 269921</label_number>
         <timings>
@@ -2477,8 +2789,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Matacic, Lovro von</conductor>
-        <orchestra>Philharmonia Orchestra</orchestra>
+        <performers>
+          <conductor>Matacic, Lovro von</conductor>
+          <orchestra>Philharmonia Orchestra</orchestra>
+        </performers>
         <date>Jan-56</date>
         <label_number>Angel LP 3548B</label_number>
         <timings>
@@ -2492,6 +2806,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Matacic, Lovro von</conductor>
+          <orchestra>Philharmonia Orchestra</orchestra>
+        </performers>
         <date>Jan-56</date>
         <label_number>EMI CD S 68739 2</label_number>
         <timings>
@@ -2505,8 +2823,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Spruit, Henk</conductor>
-        <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Bearac CD BRC 3381</label_number>
         <timings>
@@ -2532,6 +2852,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Concert Hall LP CHS 1142</label_number>
         <timings>
@@ -2557,6 +2881,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Forgotten Records FR 708</label_number>
         <timings>
@@ -2582,6 +2910,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Klassic Haus Restorations CD GSC 010</label_number>
         <timings>
@@ -2607,6 +2939,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Musical Masterpiece Society LP M-1142</label_number>
         <timings>
@@ -2632,6 +2968,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Nixa LP CLP 1142</label_number>
         <timings>
@@ -2657,8 +2997,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Zaun, Fritz</conductor>
-        <orchestra>Staatskapelle Berlin</orchestra>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>Abruckner.com BSVD-0101</label_number>
         <timings>
@@ -2672,6 +3014,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>EH 844</label_number>
         <timings>
@@ -2685,6 +3031,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>EMI CD CDHC 5 66206-2</label_number>
         <timings>
@@ -2698,6 +3048,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>HMV C 2659 (78s)</label_number>
         <timings>
@@ -2711,6 +3065,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>Symposium CD 1258</label_number>
         <timings>
@@ -2724,6 +3082,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>Victor 11726 (78s)</label_number>
         <timings>
@@ -2737,8 +3099,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Schmitz, Paul</conductor>
-        <orchestra>NDR Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Schmitz, Paul</conductor>
+          <orchestra>NDR Symphony Orchestra</orchestra>
+        </performers>
         <date>1961</date>
         <label_number>Memories Reverence CD MR 2454</label_number>
         <timings>
@@ -2764,6 +3128,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Schmitz, Paul</conductor>
+          <orchestra>NDR Symphony Orchestra</orchestra>
+        </performers>
         <date>1961</date>
         <label_number>Treasure of the Earth TOE 2077</label_number>
         <timings>
@@ -2789,8 +3157,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor/>
-        <orchestra>Dino Sequi and Gerhard Hofer Piano Duo</orchestra>
+        <performers>
+          <conductor/>
+          <orchestra>Dino Sequi and Gerhard Hofer Piano Duo</orchestra>
+        </performers>
         <date>4/9/19</date>
         <label_number>Abruckner.com BSVD-0122</label_number>
         <timings>
@@ -2816,6 +3186,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor/>
+          <orchestra>Dino Sequi and Gerhard Hofer Piano Duo</orchestra>
+        </performers>
         <date>4/9/19</date>
         <label_number>TOBU Set TBRCD 0080/0089-2</label_number>
         <timings>
@@ -2841,8 +3215,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Boenig, Winifried</conductor>
-        <orchestra>Hohen Dome Organ. Cologne</orchestra>
+        <performers>
+          <conductor>Boenig, Winifried</conductor>
+          <orchestra>Hohen Dome Organ. Cologne</orchestra>
+        </performers>
         <date>13-16/8/04</date>
         <label_number>Motette SACD MOT 13254</label_number>
         <timings>
@@ -2856,8 +3232,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Galard, Jean</conductor>
-        <orchestra>Organ of Beauvais Cathedral</orchestra>
+        <performers>
+          <conductor>Galard, Jean</conductor>
+          <orchestra>Organ of Beauvais Cathedral</orchestra>
+        </performers>
         <date/>
         <label_number>Organ ORG-72172 (Download only)</label_number>
         <timings>
@@ -2871,8 +3249,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Hansjoerg, Albrecht</conductor>
-        <orchestra>Bruckner Organ, St Florian</orchestra>
+        <performers>
+          <conductor>Hansjoerg, Albrecht</conductor>
+          <orchestra>Bruckner Organ, St Florian</orchestra>
+        </performers>
         <date>22-25/5/20</date>
         <label_number>Oehms Classics CD OC 476</label_number>
         <timings>
@@ -2898,8 +3278,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Horn, Erwin</conductor>
-        <orchestra>Organ in the Nurenberg Frauenkirch</orchestra>
+        <performers>
+          <conductor>Horn, Erwin</conductor>
+          <orchestra>Organ in the Nurenberg Frauenkirch</orchestra>
+        </performers>
         <date>Apr-90</date>
         <label_number>Novalis CD 150 071-2</label_number>
         <timings>
@@ -2913,8 +3295,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Horn, Erwin</conductor>
-        <orchestra>Organ of the Stadtpfarrkirche zu Muennerstadt</orchestra>
+        <performers>
+          <conductor>Horn, Erwin</conductor>
+          <orchestra>Organ of the Stadtpfarrkirche zu Muennerstadt</orchestra>
+        </performers>
         <date>Jul-85</date>
         <label_number>Mitra LP 16180</label_number>
         <timings>
@@ -2928,8 +3312,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Krueck, Christoph</conductor>
-        <orchestra>Organ of Schlosskirche. Bayreuth</orchestra>
+        <performers>
+          <conductor>Krueck, Christoph</conductor>
+          <orchestra>Organ of Schlosskirche. Bayreuth</orchestra>
+        </performers>
         <date/>
         <label_number>HTB CD HB 11300</label_number>
         <timings>
@@ -2943,8 +3329,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Skudlik, Johannes</conductor>
-        <orchestra>Orgen des Muenster zu Dinkelsbuehl</orchestra>
+        <performers>
+          <conductor>Skudlik, Johannes</conductor>
+          <orchestra>Orgen des Muenster zu Dinkelsbuehl</orchestra>
+        </performers>
         <date>13-15/5/02</date>
         <label_number>Motette CD 13001</label_number>
         <timings>
@@ -2958,8 +3346,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Yamamoto, Kyousei</conductor>
-        <orchestra>Maebashi Senior High School Wind Ensemble</orchestra>
+        <performers>
+          <conductor>Yamamoto, Kyousei</conductor>
+          <orchestra>Maebashi Senior High School Wind Ensemble</orchestra>
+        </performers>
         <date>2/2003</date>
         <label_number>Accord Publishing Sampler CD Vol. 9</label_number>
         <timings>
@@ -2973,8 +3363,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Rozhdestvensky, Gennadi</conductor>
-        <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Klassic Haus Restorations KHCD 2012-009</label_number>
         <timings>
@@ -3000,8 +3392,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Venzago, Mario</conductor>
-        <orchestra>Tapiola Sinfonietta</orchestra>
+        <performers>
+          <conductor>Venzago, Mario</conductor>
+          <orchestra>Tapiola Sinfonietta</orchestra>
+        </performers>
         <date>11/2010</date>
         <label_number>CPO 777 617-2</label_number>
         <timings>
@@ -3033,8 +3427,10 @@
     <version>1869 Ed. Woess. published by Universal Edition [1924]</version>
     <recordings>
       <recording>
-        <conductor>Beinum, Edward van</conductor>
-        <orchestra>Concertgebouw Orchestra</orchestra>
+        <performers>
+          <conductor>Beinum, Edward van</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>13/3/55</date>
         <label_number>Disco Archivia CD DA-042</label_number>
         <timings>
@@ -3060,6 +3456,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Beinum, Edward van</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>13/3/55</date>
         <label_number>Haydn House CD SDA 2005</label_number>
         <timings>
@@ -3085,6 +3485,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Beinum, Edward van</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>13/3/55</date>
         <label_number>Vibrato CD VHL-240</label_number>
         <timings>
@@ -3110,8 +3514,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Haitink, Bernard</conductor>
-        <orchestra>Concertgebouw Orchestra</orchestra>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>High Definition Tape Transfers HDDL396 24/192</label_number>
         <timings>
@@ -3137,6 +3543,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips CD 442 040-2 (full set)</label_number>
         <timings>
@@ -3162,6 +3572,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips CD 4756740 full set</label_number>
         <timings>
@@ -3187,6 +3601,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips Club Edition LP 66 011</label_number>
         <timings>
@@ -3212,6 +3630,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips LP 802 724 LY and full set.</label_number>
         <timings>
@@ -3237,6 +3659,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips LP PHS900-131</label_number>
         <timings>
@@ -3262,6 +3688,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Haitink, Bernard</conductor>
+          <orchestra>Concertgebouw Orchestra</orchestra>
+        </performers>
         <date>4-7/7/66</date>
         <label_number>Philips LP SAL 3602</label_number>
         <timings>
@@ -3287,8 +3717,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Leitner, Ferdinand</conductor>
-        <orchestra>Bavarian Radio Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Leitner, Ferdinand</conductor>
+          <orchestra>Bavarian Radio Symphony Orchestra</orchestra>
+        </performers>
         <date>11/6/1960</date>
         <label_number>Orfeo CD 269921</label_number>
         <timings>
@@ -3314,8 +3746,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Matacic, Lovro von</conductor>
-        <orchestra>Philharmonia Orchestra</orchestra>
+        <performers>
+          <conductor>Matacic, Lovro von</conductor>
+          <orchestra>Philharmonia Orchestra</orchestra>
+        </performers>
         <date>Jan-56</date>
         <label_number>Angel LP 3548B</label_number>
         <timings>
@@ -3329,6 +3763,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Matacic, Lovro von</conductor>
+          <orchestra>Philharmonia Orchestra</orchestra>
+        </performers>
         <date>Jan-56</date>
         <label_number>EMI CD S 68739 2</label_number>
         <timings>
@@ -3342,8 +3780,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Spruit, Henk</conductor>
-        <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Bearac CD BRC 3381</label_number>
         <timings>
@@ -3369,6 +3809,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Concert Hall LP CHS 1142</label_number>
         <timings>
@@ -3394,6 +3838,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Forgotten Records FR 708</label_number>
         <timings>
@@ -3419,6 +3867,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Klassic Haus Restorations CD GSC 010</label_number>
         <timings>
@@ -3444,6 +3896,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Musical Masterpiece Society LP M-1142</label_number>
         <timings>
@@ -3469,6 +3925,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Spruit, Henk</conductor>
+          <orchestra>Concert Hall Symphony Orchestra</orchestra>
+        </performers>
         <date>1952</date>
         <label_number>Nixa LP CLP 1142</label_number>
         <timings>
@@ -3494,8 +3954,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Zaun, Fritz</conductor>
-        <orchestra>Staatskapelle Berlin</orchestra>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>Abruckner.com BSVD-0101</label_number>
         <timings>
@@ -3509,6 +3971,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>EH 844</label_number>
         <timings>
@@ -3522,6 +3988,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>EMI CD CDHC 5 66206-2</label_number>
         <timings>
@@ -3535,6 +4005,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>HMV C 2659 (78s)</label_number>
         <timings>
@@ -3548,6 +4022,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>Symposium CD 1258</label_number>
         <timings>
@@ -3561,6 +4039,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Zaun, Fritz</conductor>
+          <orchestra>Staatskapelle Berlin</orchestra>
+        </performers>
         <date>Oct-33</date>
         <label_number>Victor 11726 (78s)</label_number>
         <timings>
@@ -3574,8 +4056,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Schmitz, Paul</conductor>
-        <orchestra>NDR Symphony Orchestra</orchestra>
+        <performers>
+          <conductor>Schmitz, Paul</conductor>
+          <orchestra>NDR Symphony Orchestra</orchestra>
+        </performers>
         <date>1961</date>
         <label_number>Memories Reverence CD MR 2454</label_number>
         <timings>
@@ -3601,6 +4085,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor>Schmitz, Paul</conductor>
+          <orchestra>NDR Symphony Orchestra</orchestra>
+        </performers>
         <date>1961</date>
         <label_number>Treasure of the Earth TOE 2077</label_number>
         <timings>
@@ -3626,8 +4114,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor/>
-        <orchestra>Dino Sequi and Gerhard Hofer Piano Duo</orchestra>
+        <performers>
+          <conductor/>
+          <orchestra>Dino Sequi and Gerhard Hofer Piano Duo</orchestra>
+        </performers>
         <date>4/9/19</date>
         <label_number>Abruckner.com BSVD-0122</label_number>
         <timings>
@@ -3653,6 +4143,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor/>
+          <orchestra>Dino Sequi and Gerhard Hofer Piano Duo</orchestra>
+        </performers>
         <date>4/9/19</date>
         <label_number>TOBU Set TBRCD 0080/0089-2</label_number>
         <timings>
@@ -3678,8 +4172,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Boenig, Winifried</conductor>
-        <orchestra>Hohen Dome Organ. Cologne</orchestra>
+        <performers>
+          <conductor>Boenig, Winifried</conductor>
+          <orchestra>Hohen Dome Organ. Cologne</orchestra>
+        </performers>
         <date>13-16/8/04</date>
         <label_number>Motette SACD MOT 13254</label_number>
         <timings>
@@ -3693,8 +4189,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Galard, Jean</conductor>
-        <orchestra>Organ of Beauvais Cathedral</orchestra>
+        <performers>
+          <conductor>Galard, Jean</conductor>
+          <orchestra>Organ of Beauvais Cathedral</orchestra>
+        </performers>
         <date/>
         <label_number>Organ ORG-72172 (Download only)</label_number>
         <timings>
@@ -3708,8 +4206,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Hansjoerg, Albrecht</conductor>
-        <orchestra>Bruckner Organ, St Florian</orchestra>
+        <performers>
+          <conductor>Hansjoerg, Albrecht</conductor>
+          <orchestra>Bruckner Organ, St Florian</orchestra>
+        </performers>
         <date>22-25/5/20</date>
         <label_number>Oehms Classics CD OC 476</label_number>
         <timings>
@@ -3735,8 +4235,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Horn, Erwin</conductor>
-        <orchestra>Organ in the Nurenberg Frauenkirch</orchestra>
+        <performers>
+          <conductor>Horn, Erwin</conductor>
+          <orchestra>Organ in the Nurenberg Frauenkirch</orchestra>
+        </performers>
         <date>Apr-90</date>
         <label_number>Novalis CD 150 071-2</label_number>
         <timings>
@@ -3750,8 +4252,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Horn, Erwin</conductor>
-        <orchestra>Organ of the Stadtpfarrkirche zu Muennerstadt</orchestra>
+        <performers>
+          <conductor>Horn, Erwin</conductor>
+          <orchestra>Organ of the Stadtpfarrkirche zu Muennerstadt</orchestra>
+        </performers>
         <date>Jul-85</date>
         <label_number>Mitra LP 16180</label_number>
         <timings>
@@ -3765,8 +4269,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Krueck, Christoph</conductor>
-        <orchestra>Organ of Schlosskirche. Bayreuth</orchestra>
+        <performers>
+          <conductor>Krueck, Christoph</conductor>
+          <orchestra>Organ of Schlosskirche. Bayreuth</orchestra>
+        </performers>
         <date/>
         <label_number>HTB CD HB 11300</label_number>
         <timings>
@@ -3780,8 +4286,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Skudlik, Johannes</conductor>
-        <orchestra>Orgen des Muenster zu Dinkelsbuehl</orchestra>
+        <performers>
+          <conductor>Skudlik, Johannes</conductor>
+          <orchestra>Orgen des Muenster zu Dinkelsbuehl</orchestra>
+        </performers>
         <date>13-15/5/02</date>
         <label_number>Motette CD 13001</label_number>
         <timings>
@@ -3795,8 +4303,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Yamamoto, Kyousei</conductor>
-        <orchestra>Maebashi Senior High School Wind Ensemble</orchestra>
+        <performers>
+          <conductor>Yamamoto, Kyousei</conductor>
+          <orchestra>Maebashi Senior High School Wind Ensemble</orchestra>
+        </performers>
         <date>2/2003</date>
         <label_number>Accord Publishing Sampler CD Vol. 9</label_number>
         <timings>
@@ -3810,8 +4320,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Rozhdestvensky, Gennadi</conductor>
-        <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Klassic Haus Restorations KHCD 2012-009</label_number>
         <timings>
@@ -3837,8 +4349,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Venzago, Mario</conductor>
-        <orchestra>Tapiola Sinfonietta</orchestra>
+        <performers>
+          <conductor>Venzago, Mario</conductor>
+          <orchestra>Tapiola Sinfonietta</orchestra>
+        </performers>
         <date>11/2010</date>
         <label_number>CPO 777 617-2</label_number>
         <timings>
@@ -3870,8 +4384,10 @@
     <version>Transcriptions</version>
     <recordings>
       <recording>
-        <conductor/>
-        <orchestra>Dino Sequi and Gerhard Hofer Piano Duo</orchestra>
+        <performers>
+          <conductor/>
+          <orchestra>Dino Sequi and Gerhard Hofer Piano Duo</orchestra>
+        </performers>
         <date>4/9/19</date>
         <label_number>Abruckner.com BSVD-0122</label_number>
         <timings>
@@ -3897,6 +4413,10 @@
         </timings>
       </recording>
       <recording>
+        <performers>
+          <conductor/>
+          <orchestra>Dino Sequi and Gerhard Hofer Piano Duo</orchestra>
+        </performers>
         <date>4/9/19</date>
         <label_number>TOBU Set TBRCD 0080/0089-2</label_number>
         <timings>
@@ -3922,8 +4442,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Boenig, Winifried</conductor>
-        <orchestra>Hohen Dome Organ. Cologne</orchestra>
+        <performers>
+          <conductor>Boenig, Winifried</conductor>
+          <orchestra>Hohen Dome Organ. Cologne</orchestra>
+        </performers>
         <date>13-16/8/04</date>
         <label_number>Motette SACD MOT 13254</label_number>
         <timings>
@@ -3937,8 +4459,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Galard, Jean</conductor>
-        <orchestra>Organ of Beauvais Cathedral</orchestra>
+        <performers>
+          <conductor>Galard, Jean</conductor>
+          <orchestra>Organ of Beauvais Cathedral</orchestra>
+        </performers>
         <date/>
         <label_number>Organ ORG-72172 (Download only)</label_number>
         <timings>
@@ -3952,8 +4476,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Hansjoerg, Albrecht</conductor>
-        <orchestra>Bruckner Organ, St Florian</orchestra>
+        <performers>
+          <conductor>Hansjoerg, Albrecht</conductor>
+          <orchestra>Bruckner Organ, St Florian</orchestra>
+        </performers>
         <date>22-25/5/20</date>
         <label_number>Oehms Classics CD OC 476</label_number>
         <timings>
@@ -3979,8 +4505,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Horn, Erwin</conductor>
-        <orchestra>Organ in the Nurenberg Frauenkirch</orchestra>
+        <performers>
+          <conductor>Horn, Erwin</conductor>
+          <orchestra>Organ in the Nurenberg Frauenkirch</orchestra>
+        </performers>
         <date>Apr-90</date>
         <label_number>Novalis CD 150 071-2</label_number>
         <timings>
@@ -3994,8 +4522,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Horn, Erwin</conductor>
-        <orchestra>Organ of the Stadtpfarrkirche zu Muennerstadt</orchestra>
+        <performers>
+          <conductor>Horn, Erwin</conductor>
+          <orchestra>Organ of the Stadtpfarrkirche zu Muennerstadt</orchestra>
+        </performers>
         <date>Jul-85</date>
         <label_number>Mitra LP 16180</label_number>
         <timings>
@@ -4009,8 +4539,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Krueck, Christoph</conductor>
-        <orchestra>Organ of Schlosskirche. Bayreuth</orchestra>
+        <performers>
+          <conductor>Krueck, Christoph</conductor>
+          <orchestra>Organ of Schlosskirche. Bayreuth</orchestra>
+        </performers>
         <date/>
         <label_number>HTB CD HB 11300</label_number>
         <timings>
@@ -4024,8 +4556,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Skudlik, Johannes</conductor>
-        <orchestra>Orgen des Muenster zu Dinkelsbuehl</orchestra>
+        <performers>
+          <conductor>Skudlik, Johannes</conductor>
+          <orchestra>Orgen des Muenster zu Dinkelsbuehl</orchestra>
+        </performers>
         <date>13-15/5/02</date>
         <label_number>Motette CD 13001</label_number>
         <timings>
@@ -4039,8 +4573,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Yamamoto, Kyousei</conductor>
-        <orchestra>Maebashi Senior High School Wind Ensemble</orchestra>
+        <performers>
+          <conductor>Yamamoto, Kyousei</conductor>
+          <orchestra>Maebashi Senior High School Wind Ensemble</orchestra>
+        </performers>
         <date>2/2003</date>
         <label_number>Accord Publishing Sampler CD Vol. 9</label_number>
         <timings>
@@ -4054,8 +4590,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Rozhdestvensky, Gennadi</conductor>
-        <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Klassic Haus Restorations KHCD 2012-009</label_number>
         <timings>
@@ -4081,8 +4619,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Venzago, Mario</conductor>
-        <orchestra>Tapiola Sinfonietta</orchestra>
+        <performers>
+          <conductor>Venzago, Mario</conductor>
+          <orchestra>Tapiola Sinfonietta</orchestra>
+        </performers>
         <date>11/2010</date>
         <label_number>CPO 777 617-2</label_number>
         <timings>
@@ -4114,8 +4654,10 @@
     <version>1863 One version only - Ed. Leopold Nowak [1973]</version>
     <recordings>
       <recording>
-        <conductor>Rozhdestvensky, Gennadi</conductor>
-        <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        <performers>
+          <conductor>Rozhdestvensky, Gennadi</conductor>
+          <orchestra>USSR Ministry of Culture Orchestra</orchestra>
+        </performers>
         <date>1983</date>
         <label_number>Klassic Haus Restorations KHCD 2012-009</label_number>
         <timings>
@@ -4141,8 +4683,10 @@
         </timings>
       </recording>
       <recording>
-        <conductor>Venzago, Mario</conductor>
-        <orchestra>Tapiola Sinfonietta</orchestra>
+        <performers>
+          <conductor>Venzago, Mario</conductor>
+          <orchestra>Tapiola Sinfonietta</orchestra>
+        </performers>
         <date>11/2010</date>
         <label_number>CPO 777 617-2</label_number>
         <timings>
@@ -4174,8 +4718,10 @@
     <version>1877 Linz version with revisions - Ed. Leopold Nowak [1953]</version>
     <recordings>
       <recording>
-        <conductor>Venzago, Mario</conductor>
-        <orchestra>Tapiola Sinfonietta</orchestra>
+        <performers>
+          <conductor>Venzago, Mario</conductor>
+          <orchestra>Tapiola Sinfonietta</orchestra>
+        </performers>
         <date>11/2010</date>
         <label_number>CPO 777 617-2</label_number>
         <timings>

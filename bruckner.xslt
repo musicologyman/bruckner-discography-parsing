@@ -26,7 +26,22 @@
 
     <xsl:template match="div[@class='row']">
         <recording>
-            <xsl:apply-templates select="div[@class='even']" />
+        	<xsl:variable name="performers">
+            	<xsl:apply-templates select="div[@class='even']" />
+            </xsl:variable>
+            <xsl:choose>
+            	<xsl:when test="div[@class='even']">
+					<performers>
+						<xsl:copy-of select="$performers"/>
+					</performers>
+				</xsl:when>
+				<xsl:otherwise>
+					<performers>
+						<xsl:apply-templates 
+							select="preceding-sibling::div[@class='row'][div[@class='even']][1]/div[@class='even']"/>
+					</performers>
+					</xsl:otherwise>
+            </xsl:choose>
             <date>
                 <xsl:value-of select="normalize-space(div[@class='odd']/div[@class='col1']/b)" />
             </date>
