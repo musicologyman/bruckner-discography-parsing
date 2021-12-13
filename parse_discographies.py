@@ -1,5 +1,6 @@
 import json
 import requests
+import xmltodict
 
 from collections.abc import Iterable, Mapping
 from io import StringIO
@@ -38,8 +39,14 @@ def transform_xml(xsl_template: XSLT, tree: etree) -> Any:
     return xsl_template(tree) 
 
 def write_transformed_xml(filename, transformed_xml):
-    with open(filename, mode="w") as fp:
+    with open("xml_files/" + filename, mode="w") as fp:
         fp.write(transformed_xml)
+
+def write_transformed_json(filename, transformed_xml):
+        result_dict = xmltodict.parse(transformed_xml)
+        with open("json_files/" + filename[:-4] + ".json", mode="w") as fp:
+            json.dump(result_dict, fp, indent=4)
+
 
 def main():
     xsl_template=get_transform()
@@ -54,7 +61,9 @@ def main():
                       get_soup,
                       get_tree)
         result = transform_xml(xsl_template, tree)
-        write_transformed_xml(destfile, str(result))
+        result_str = str(result)
+        write_transformed_xml(destfile, result_str)
+        write_transformed_json(destfile, result_str)
 
 if __name__ == "__main__":
     main()
